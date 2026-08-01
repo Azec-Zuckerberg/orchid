@@ -3,7 +3,7 @@
 export const IMESSAGE_HREF = "sms:+14152999916";
 export const LOGIN_HREF =
   "https://app.orchid.ai?source=site&utm_source=site&utm_campaign=login";
-export const ENTERPRISE_HREF = "https://form.typeform.com/to/KBRPorqf";
+export const ENTERPRISE_HREF = "https://form.typeform.com/to/KBRPorqf?t";
 export const CONTACT_EMAIL = "hello@orchid.ai";
 
 export interface NavLink {

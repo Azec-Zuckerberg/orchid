@@ -1,4 +1,11 @@
-// Assembled in Phase 4 once the home-page sections are merged.
+import { FeaturesSection } from "@/components/home/FeaturesSection";
+import { Hero } from "@/components/home/Hero";
+
 export default function Home() {
-  return null;
+  return (
+    <>
+      <Hero />
+      <FeaturesSection />
+    </>
+  );
 }
