@@ -59,6 +59,8 @@ export interface FeatureRow {
   /** Inline max-width applied to the description, in px. */
   descriptionWidth: number;
   bullets: FeatureBullet[];
+  /** Background photograph behind the illustrated panel. */
+  photoSrc: string;
   /** The illustrated panel rendered opposite the copy. */
   Visual: ComponentType;
 }
