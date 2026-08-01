@@ -87,14 +87,15 @@ const ASSETS = [
   ['/illustrations/channels/orchid-icon.png', 'illustrations/channels/orchid-icon.png'],
   ['/illustrations/channels/petal.svg', 'illustrations/channels/petal.svg'],
 
-  // ── Provider logos ─────────────────────────────────────────────────────
-  ['/logos/providers/dropbox.png', 'logos/providers/dropbox.png'],
-  ['/logos/providers/figma.svg', 'logos/providers/figma.svg'],
-  ['/logos/providers/gmail.svg', 'logos/providers/gmail.svg'],
-  ['/logos/providers/google-calendar.png', 'logos/providers/google-calendar.png'],
-  ['/logos/providers/hubspot.png', 'logos/providers/hubspot.png'],
-  ['/logos/providers/notion.png', 'logos/providers/notion.png'],
-  ['/logos/providers/slack.png', 'logos/providers/slack.png'],
+  // ── Provider logos (all 26 the constellation cycles through) ───────────
+  ...[
+    'gmail.svg', 'google-calendar.png', 'slack.png', 'notion.png', 'figma.svg',
+    'dropbox.png', 'hubspot.png', 'stripe.png', 'jira.svg', 'salesforce.png',
+    'intercom.png', 'google-drive.svg', 'google-meet.png', 'asana.svg', 'x.png',
+    'cal-com.svg', 'docusign.png', 'granola.png', 'perplexity.webp', 'reddit.png',
+    'resend.svg', 'sentry.webp', 'google-sheets.png', 'attio.svg', 'cloudflare.png',
+    'vercel.svg',
+  ].map((f) => [`/logos/providers/${f}`, `logos/providers/${f}`]),
 
   // ── Testimonials / case study ──────────────────────────────────────────
   ['/testimonials/maha.png', 'testimonials/maha.png'],
