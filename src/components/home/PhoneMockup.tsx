@@ -1,10 +1,14 @@
+"use client";
+
 /* eslint-disable @next/next/no-img-element -- the phone frame, petals, avatar
    and photo stack are raw <img> on the original site; next/image would inject
    its own sizing wrapper and break the container-query (`cqw`) layout. */
 
 import type { CSSProperties, ReactNode } from "react";
+import { useRef } from "react";
 
 import { BubbleTail, IosBatteryIcon, IosVideoIcon, IosWifiIcon } from "@/components/icons";
+import { TranscriptBubbles } from "@/components/home/TranscriptBubbles";
 import type { ChatMessage } from "@/types/content";
 import { cn } from "@/lib/utils";
 
@@ -187,19 +191,19 @@ function Tapback({ emoji }: { emoji: string }) {
       <span
         aria-hidden="true"
         data-tapback="true"
-        className="animate-tapback-pop pointer-events-none absolute z-10 grid size-[8.96cqw] place-items-center rounded-full bg-[#08f] shadow-[0_0.5cqw_1.5cqw_-0.25cqw_rgba(0,0,0,0.22)] -top-[6.97cqw] -left-[3.74cqw]"
+        className="pointer-events-none absolute z-10 grid size-[8.96cqw] place-items-center rounded-full bg-[#08f] shadow-[0_0.5cqw_1.5cqw_-0.25cqw_rgba(0,0,0,0.22)] -top-[6.97cqw] -left-[3.74cqw]"
       >
         <span className="text-[4.23cqw] leading-none">{emoji}</span>
       </span>
       <span
         aria-hidden="true"
         data-tapback="true"
-        className="animate-tapback-pop pointer-events-none absolute z-10 size-[2.99cqw] rounded-full bg-[#08f] shadow-[0_0.25cqw_0.6cqw_rgba(0,0,0,0.18)] -top-[0.25cqw] -left-[3.74cqw]"
+        className="pointer-events-none absolute z-10 size-[2.99cqw] rounded-full bg-[#08f] shadow-[0_0.25cqw_0.6cqw_rgba(0,0,0,0.18)] -top-[0.25cqw] -left-[3.74cqw]"
       />
       <span
         aria-hidden="true"
         data-tapback="true"
-        className="animate-tapback-pop pointer-events-none absolute z-10 size-[1.49cqw] rounded-full bg-[#08f] shadow-[0_0.18cqw_0.45cqw_rgba(0,0,0,0.15)] top-[2.74cqw] -left-[4.48cqw]"
+        className="pointer-events-none absolute z-10 size-[1.49cqw] rounded-full bg-[#08f] shadow-[0_0.18cqw_0.45cqw_rgba(0,0,0,0.15)] top-[2.74cqw] -left-[4.48cqw]"
       />
     </>
   );
@@ -257,6 +261,10 @@ function MessageRow({ message }: { message: ChatMessage }) {
 }
 
 function MessageList() {
+  // The clipping box the transcript scrolls inside — the animation measures its
+  // height to work out how far to translate the list.
+  const viewportRef = useRef<HTMLDivElement>(null);
+
   return (
     <div
       className="absolute inset-x-0 top-[7%] bottom-[0.92%] z-0 overflow-hidden"
@@ -270,14 +278,21 @@ function MessageList() {
         <span>8:05 AM</span>
       </div>
       <div
+        ref={viewportRef}
         className="absolute inset-x-0 top-[19%] bottom-[8.58cqw] px-[3.98cqw]"
         style={IOS_FONT}
       >
-        <div className="flex flex-col gap-[1cqw] will-change-transform">
+        <TranscriptBubbles
+          active
+          loop
+          messageGap={1.6}
+          viewportRef={viewportRef}
+          className="gap-[1cqw] will-change-transform"
+        >
           {MESSAGES.map((message, index) => (
             <MessageRow key={index} message={message} />
           ))}
-        </div>
+        </TranscriptBubbles>
       </div>
     </div>
   );
