@@ -1,0 +1,144 @@
+      <div data-anim="row" class="flex flex-col gap-10 min-[1024px]:items-center min-[1024px]:gap-[64px] min-[1024px]:flex-row-reverse">
+        <div class="flex flex-1 flex-col items-start gap-8 py-4 min-[1024px]:min-w-px">
+          <div class="flex w-full flex-col items-start gap-[12px]">
+            <h3 class="font-serif text-[28px] leading-[1.1] tracking-[-0.03em] text-ink">
+              Automate your life using habits.
+            </h3>
+            <p class="text-[16px] leading-[1.5] text-ink/65" style="max-width:470px">
+              Set up any habit just by asking. Anything from a daily news digest to a calorie tracker you text pictures of.
+            </p>
+          </div>
+          <div class="flex w-full flex-col items-start">
+            <div class="flex w-full py-3 border-b-[0.5px] border-ink/10">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-repeat size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="m17 2 4 4-4 4">
+                  </path>
+                  <path d="M3 11v-1a4 4 0 0 1 4-4h14">
+                  </path>
+                  <path d="m7 22-4-4 4-4">
+                  </path>
+                  <path d="M21 13v1a4 4 0 0 1-4 4H3">
+                  </path>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  Set it once, it repeats
+                </p>
+              </div>
+            </div>
+            <div class="flex w-full py-3 border-b-[0.5px] border-ink/10">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sparkles size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z">
+                  </path>
+                  <path d="M20 2v4">
+                  </path>
+                  <path d="M22 4h-4">
+                  </path>
+                  <circle cx="4" cy="20" r="2">
+                  </circle>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  Your routines, on autopilot
+                </p>
+              </div>
+            </div>
+            <div class="flex w-full py-3">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-moon size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401">
+                  </path>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  Runs while you sleep
+                </p>
+              </div>
+            </div>
+          </div>
+          <a class="relative inline-flex cursor-pointer items-center justify-center rounded-full bg-ink px-4 py-2.5 text-sm font-medium leading-none text-paper transition-[opacity,scale] duration-150 hover:opacity-90 motion-safe:active:scale-[0.97] before:absolute before:inset-x-0 before:-inset-y-[5px] before:content-[&#x27;&#x27;]" href="sms:+14152999916">
+            Get Started
+          </a>
+        </div>
+        <div class="relative aspect-[540/400] w-full overflow-hidden rounded-[24px] bg-ink/[0.04] min-[1024px]:aspect-auto min-[1024px]:h-[440px] min-[1024px]:w-[540px] min-[1024px]:shrink-0">
+          <div class="pointer-events-none absolute inset-0">
+            <img alt="" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="(min-width: 1024px) 540px, 100vw" srcSet="/_next/image?url=%2Fbranded%2Fdesk-orchid-night.jpeg&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fdesk-orchid-night.jpeg&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fdesk-orchid-night.jpeg&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fdesk-orchid-night.jpeg&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fdesk-orchid-night.jpeg&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fdesk-orchid-night.jpeg&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fdesk-orchid-night.jpeg&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fdesk-orchid-night.jpeg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fdesk-orchid-night.jpeg&amp;w=3840&amp;q=75"/>
+            <div class="absolute inset-0 bg-[rgba(8,21,46,0.4)]">
+            </div>
+          </div>
+          <div aria-hidden="true" class="absolute inset-0 [container-type:inline-size]">
+            <div class="absolute" style="left:22%;top:12%;transform:translate(-50%, -50%)">
+              <div class="relative origin-center rounded-[3.4cqw] bg-[#0a84ff] px-[2.6cqw] py-[1.5cqw] leading-[1.35] text-white shadow-[0_12px_30px_rgba(10,132,255,0.4)]" style="max-width:36cqw;font-size:2.7cqw;font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;Segoe UI&quot;, sans-serif;opacity:0;transform:scale(0.82);transition:opacity 450ms ease, transform 450ms cubic-bezier(0.34, 1.56, 0.64, 1)">
+                send me a news digest every morning
+                <span class="pointer-events-none absolute -bottom-[1.1cqw] right-[1.5cqw] h-[3.3cqw] w-[3.1cqw]">
+                  <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full text-[#0a84ff]" fill="currentColor" preserveAspectRatio="none">
+                    <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                    </path>
+                  </svg>
+                </span>
+              </div>
+            </div>
+            <div class="absolute" style="left:71%;top:31%;transform:translate(-50%, -50%)">
+              <div class="relative origin-center rounded-[3.4cqw] bg-[#0a84ff] px-[2.6cqw] py-[1.5cqw] leading-[1.35] text-white shadow-[0_12px_30px_rgba(10,132,255,0.4)]" style="max-width:36cqw;font-size:2.7cqw;font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;Segoe UI&quot;, sans-serif;opacity:0;transform:scale(0.82);transition:opacity 450ms ease, transform 450ms cubic-bezier(0.34, 1.56, 0.64, 1)">
+                track the weather, ping me if it&#x27;ll rain 🌧️
+                <span class="pointer-events-none absolute -bottom-[1.1cqw] right-[1.5cqw] h-[3.3cqw] w-[3.1cqw]">
+                  <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full text-[#0a84ff]" fill="currentColor" preserveAspectRatio="none">
+                    <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                    </path>
+                  </svg>
+                </span>
+              </div>
+            </div>
+            <div class="absolute" style="left:35%;top:48%;transform:translate(-50%, -50%)">
+              <div class="relative origin-center rounded-[3.4cqw] bg-[#0a84ff] px-[2.6cqw] py-[1.5cqw] leading-[1.35] text-white shadow-[0_12px_30px_rgba(10,132,255,0.4)]" style="max-width:36cqw;font-size:2.7cqw;font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;Segoe UI&quot;, sans-serif;opacity:0;transform:scale(0.82);transition:opacity 450ms ease, transform 450ms cubic-bezier(0.34, 1.56, 0.64, 1)">
+                be my calorie tracker, i&#x27;ll send you pics
+                <span class="pointer-events-none absolute -bottom-[1.1cqw] right-[1.5cqw] h-[3.3cqw] w-[3.1cqw]">
+                  <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full text-[#0a84ff]" fill="currentColor" preserveAspectRatio="none">
+                    <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                    </path>
+                  </svg>
+                </span>
+              </div>
+            </div>
+            <div class="absolute" style="left:65%;top:66%;transform:translate(-50%, -50%)">
+              <div class="relative origin-center rounded-[3.4cqw] bg-[#0a84ff] px-[2.6cqw] py-[1.5cqw] leading-[1.35] text-white shadow-[0_12px_30px_rgba(10,132,255,0.4)]" style="max-width:36cqw;font-size:2.7cqw;font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;Segoe UI&quot;, sans-serif;opacity:0;transform:scale(0.82);transition:opacity 450ms ease, transform 450ms cubic-bezier(0.34, 1.56, 0.64, 1)">
+                check me in for my flights automatically ✈️
+                <span class="pointer-events-none absolute -bottom-[1.1cqw] right-[1.5cqw] h-[3.3cqw] w-[3.1cqw]">
+                  <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full text-[#0a84ff]" fill="currentColor" preserveAspectRatio="none">
+                    <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                    </path>
+                  </svg>
+                </span>
+              </div>
+            </div>
+            <div class="absolute" style="left:27%;top:85%;transform:translate(-50%, -50%)">
+              <div class="relative origin-center rounded-[3.4cqw] bg-[#0a84ff] px-[2.6cqw] py-[1.5cqw] leading-[1.35] text-white shadow-[0_12px_30px_rgba(10,132,255,0.4)]" style="max-width:36cqw;font-size:2.7cqw;font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;Segoe UI&quot;, sans-serif;opacity:0;transform:scale(0.82);transition:opacity 450ms ease, transform 450ms cubic-bezier(0.34, 1.56, 0.64, 1)">
+                remind me to take my meds at 9
+                <span class="pointer-events-none absolute -bottom-[1.1cqw] right-[1.5cqw] h-[3.3cqw] w-[3.1cqw]">
+                  <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full text-[#0a84ff]" fill="currentColor" preserveAspectRatio="none">
+                    <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                    </path>
+                  </svg>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-anim="divider" aria-hidden="true" class="relative h-6 w-full overflow-hidden">
+        <div class="absolute left-1/2 top-1/2 h-px w-full max-w-[1200px] -translate-x-1/2 -translate-y-1/2 bg-ink/10">
+        </div>
+        <div class="absolute left-1/2 top-1/2 h-[60px] w-[156px] -translate-x-1/2 -translate-y-1/2 bg-paper">
+          <svg viewBox="0 0 156.979 60.0666" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" class="absolute inset-0 h-full w-full text-ink">
+            <path d="M44.0181 25.6923C39.7009 25.6923 36.8436 28.8432 36.0923 29.776C35.9692 29.9289 35.9692 30.1376 36.0923 30.2904C36.8435 31.2233 39.7006 34.3742 44.0178 34.3742C47.0208 34.3742 48.3879 32.9455 48.3879 30.0332C48.3879 27.121 47.0211 25.6923 44.0181 25.6923Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M65.1303 30.2535C63.7962 26.1747 59.8967 24.4489 58.7713 24.0275C58.587 23.9583 58.3871 24.0228 58.2789 24.1864C57.6179 25.1844 55.4841 28.8574 56.8182 32.9361C57.7462 35.7732 59.5365 36.6233 62.3247 35.7234C65.1128 34.8235 66.0583 33.0906 65.1303 30.2535Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M80.6872 33.8613C84.1799 31.3405 84.6271 27.123 84.6829 25.9296C84.6921 25.7341 84.5686 25.5653 84.3786 25.5135C83.2188 25.1974 79.043 24.3166 75.5503 26.8373C73.1209 28.5908 72.8602 30.5449 74.5833 32.901C76.3066 35.257 78.2577 35.6147 80.6872 33.8613Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M94.7581 33.2291C98.2508 35.7499 102.427 34.8691 103.587 34.5532C103.777 34.5014 103.9 34.3325 103.891 34.1369C103.835 32.9436 103.388 28.7262 99.8954 26.2054C97.466 24.452 95.5145 24.8096 93.7913 27.1657C92.0682 29.5217 92.3287 31.4757 94.7581 33.2291Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M112.322 27.1303C110.988 31.209 113.121 34.8821 113.782 35.8802C113.89 36.0438 114.09 36.1082 114.275 36.0392C115.4 35.6177 119.299 33.8921 120.634 29.8134C121.562 26.9763 120.616 25.2431 117.828 24.3432C115.04 23.4433 113.25 24.2932 112.322 27.1303Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+          </svg>
+        </div>
+      </div>

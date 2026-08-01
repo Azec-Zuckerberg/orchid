@@ -4,12 +4,26 @@
 
 @custom-variant dark (&:is(.dark *));
 
+/* ------------------------------------------------------------------
+   Theme mapping — orchid.ai
+   Values mirror the tokens shipped by the live site; see
+   docs/research/DESIGN_TOKENS.md for provenance.
+   ------------------------------------------------------------------ */
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: "Geist", "Geist Fallback", ui-sans-serif, system-ui, sans-serif;
-  --font-mono: "Geist Mono", "Geist Mono Fallback", ui-monospace, monospace;
-  --font-heading: var(--font-sans);
+
+  /* Orchid palette */
+  --color-paper: var(--paper);
+  --color-ink: var(--ink);
+  --color-chip: var(--chip-bg);
+  --color-surface-2: var(--surface-2);
+
+  --font-sans: var(--font-lausanne), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-louize), ui-serif, Georgia, serif;
+  --font-mono: var(--font-jetbrains-mono), ui-monospace, monospace;
+  --font-heading: var(--font-serif);
+
   --color-sidebar-ring: var(--sidebar-ring);
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
@@ -49,82 +63,146 @@
 }
 
 :root {
-  --background: oklch(1 0 0);
-  --foreground: oklch(0.145 0 0);
-  --card: oklch(1 0 0);
-  --card-foreground: oklch(0.145 0 0);
-  --popover: oklch(1 0 0);
-  --popover-foreground: oklch(0.145 0 0);
-  --primary: oklch(0.205 0 0);
-  --primary-foreground: oklch(0.985 0 0);
-  --secondary: oklch(0.97 0 0);
-  --secondary-foreground: oklch(0.205 0 0);
-  --muted: oklch(0.97 0 0);
-  --muted-foreground: oklch(0.556 0 0);
-  --accent: oklch(0.97 0 0);
-  --accent-foreground: oklch(0.205 0 0);
+  /* ── Orchid core ─────────────────────────────────────────────── */
+  --paper: #fcfcfd;
+  --ink: #08152e;
+  --chip-bg: #ebeef2;
+  --surface-2: #f4f5f7;
+
+  --background: var(--paper);
+  --foreground: var(--ink);
+  --card: #f5f6f8;
+  --card-foreground: var(--ink);
+  --muted-foreground: #95a0aa;
+
+  /* ── iOS message mockups ─────────────────────────────────────── */
+  --ios-bg: #fff;
+  --ios-bubble-received: #e9e9ea;
+  --ios-bubble-sent: #0088ff;
+  --ios-bubble-sent-alt: #0a84ff;
+  --ios-text-primary: #000;
+  --ios-text-secondary: #3c3c4399;
+  --ios-glass: #f7f7f7f2;
+  --ios-overlay: #0000000d;
+  --ios-toolbar-icon: #404040;
+  --ios-placeholder-text: #d9d9d9;
+  --ios-time-text: #b9b9b9;
+
+  /* ── Mail / calendar mockups ─────────────────────────────────── */
+  --mail-divider: #08152e1a;
+  --mail-text: #08152e;
+  --mail-text-muted: #08152e99;
+  --cal-fullday-yellow-bg: #f8efda;
+  --cal-fullday-yellow-text: #e7ba51;
+  --cal-fullday-green-bg: #dbede4;
+  --cal-fullday-green-text: #55b080;
+
+  /* ── Glass / editorial ───────────────────────────────────────── */
+  --surface-glass: #ffffff40;
+  --surface-glass-border: #08152e1a;
+  --glass-tint: #ffffff8c;
+  --content-text: #424242;
+  --content-text-muted: #848484;
+  --content-divider: #d5d5d5;
+  --placeholder-bg: #eee;
+
+  /* ── Gradient-border helper ──────────────────────────────────── */
+  --gb-angle: to bottom;
+  --gb-from: #ffffff2e;
+  --gb-to: #fff0;
+  --gb-w: 1px;
+
+  /* ── shadcn leftovers (unused by the clone but kept valid) ───── */
+  --popover: var(--paper);
+  --popover-foreground: var(--ink);
+  --primary: var(--ink);
+  --primary-foreground: var(--paper);
+  --secondary: #f5f6f8;
+  --secondary-foreground: var(--ink);
+  --muted: #f5f6f8;
+  --accent: #f5f6f8;
+  --accent-foreground: var(--ink);
   --destructive: oklch(0.577 0.245 27.325);
-  --border: oklch(0.922 0 0);
-  --input: oklch(0.922 0 0);
-  --ring: oklch(0.708 0 0);
+  --border: color-mix(in oklab, var(--ink) 10%, transparent);
+  --input: color-mix(in oklab, var(--ink) 10%, transparent);
+  --ring: color-mix(in oklab, var(--ink) 30%, transparent);
   --chart-1: oklch(0.87 0 0);
   --chart-2: oklch(0.556 0 0);
   --chart-3: oklch(0.439 0 0);
   --chart-4: oklch(0.371 0 0);
   --chart-5: oklch(0.269 0 0);
   --radius: 0.625rem;
-  --sidebar: oklch(0.985 0 0);
-  --sidebar-foreground: oklch(0.145 0 0);
-  --sidebar-primary: oklch(0.205 0 0);
-  --sidebar-primary-foreground: oklch(0.985 0 0);
-  --sidebar-accent: oklch(0.97 0 0);
-  --sidebar-accent-foreground: oklch(0.205 0 0);
-  --sidebar-border: oklch(0.922 0 0);
-  --sidebar-ring: oklch(0.708 0 0);
-}
-
-.dark {
-  --background: oklch(0.145 0 0);
-  --foreground: oklch(0.985 0 0);
-  --card: oklch(0.205 0 0);
-  --card-foreground: oklch(0.985 0 0);
-  --popover: oklch(0.205 0 0);
-  --popover-foreground: oklch(0.985 0 0);
-  --primary: oklch(0.922 0 0);
-  --primary-foreground: oklch(0.205 0 0);
-  --secondary: oklch(0.269 0 0);
-  --secondary-foreground: oklch(0.985 0 0);
-  --muted: oklch(0.269 0 0);
-  --muted-foreground: oklch(0.708 0 0);
-  --accent: oklch(0.269 0 0);
-  --accent-foreground: oklch(0.985 0 0);
-  --destructive: oklch(0.704 0.191 22.216);
-  --border: oklch(1 0 0 / 10%);
-  --input: oklch(1 0 0 / 15%);
-  --ring: oklch(0.556 0 0);
-  --chart-1: oklch(0.87 0 0);
-  --chart-2: oklch(0.556 0 0);
-  --chart-3: oklch(0.439 0 0);
-  --chart-4: oklch(0.371 0 0);
-  --chart-5: oklch(0.269 0 0);
-  --sidebar: oklch(0.205 0 0);
-  --sidebar-foreground: oklch(0.985 0 0);
-  --sidebar-primary: oklch(0.488 0.243 264.376);
-  --sidebar-primary-foreground: oklch(0.985 0 0);
-  --sidebar-accent: oklch(0.269 0 0);
-  --sidebar-accent-foreground: oklch(0.985 0 0);
-  --sidebar-border: oklch(1 0 0 / 10%);
-  --sidebar-ring: oklch(0.556 0 0);
+  --sidebar: var(--paper);
+  --sidebar-foreground: var(--ink);
+  --sidebar-primary: var(--ink);
+  --sidebar-primary-foreground: var(--paper);
+  --sidebar-accent: #f5f6f8;
+  --sidebar-accent-foreground: var(--ink);
+  --sidebar-border: color-mix(in oklab, var(--ink) 10%, transparent);
+  --sidebar-ring: color-mix(in oklab, var(--ink) 30%, transparent);
 }
 
 @layer base {
   * {
     @apply border-border outline-ring/50;
   }
-  body {
-    @apply bg-background text-foreground;
-  }
   html {
     @apply font-sans;
+  }
+  body {
+    @apply bg-paper text-ink;
+  }
+}
+
+/* ------------------------------------------------------------------
+   Site utilities lifted from orchid.ai
+   ------------------------------------------------------------------ */
+@layer utilities {
+  /* 1px inner gradient hairline used on the glass notification card */
+  .gradient-border {
+    position: relative;
+  }
+  .gradient-border::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    padding: var(--gb-w);
+    background: linear-gradient(var(--gb-angle), var(--gb-from), var(--gb-to));
+    -webkit-mask:
+      linear-gradient(#fff 0 0) content-box,
+      linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    pointer-events: none;
+  }
+}
+
+/* iMessage tapback bubble */
+@keyframes tapback-pop {
+  0% {
+    opacity: 0;
+    transform: scale(0.2);
+  }
+  72% {
+    opacity: 1;
+    transform: scale(1.12);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.animate-tapback-pop {
+  animation: tapback-pop 0.42s cubic-bezier(0.34, 1.45, 0.64, 1) both;
+}
+
+/* Elements whose entrance is driven by GSAP start hidden so there is no
+   flash of un-animated content before hydration. Any component that relies
+   on these must also set the final state when prefers-reduced-motion is on. */
+@media (prefers-reduced-motion: no-preference) {
+  .gsap-reveal {
+    opacity: 0;
   }
 }

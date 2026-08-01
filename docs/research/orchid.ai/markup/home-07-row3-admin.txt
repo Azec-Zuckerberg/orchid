@@ -1,0 +1,125 @@
+      <div data-anim="row" class="flex flex-col gap-10 min-[1024px]:items-center min-[1024px]:gap-[64px] min-[1024px]:flex-row">
+        <div class="flex flex-1 flex-col items-start gap-8 py-4 min-[1024px]:min-w-px">
+          <div class="flex w-full flex-col items-start gap-[12px]">
+            <h3 class="font-serif text-[28px] leading-[1.1] tracking-[-0.03em] text-ink">
+              Stay on top of admin.
+            </h3>
+            <p class="text-[16px] leading-[1.5] text-ink/65" style="max-width:460px">
+              Bills, bookings, follow ups, forms. The boring stuff still gets done, you just stop being the one doing it.
+            </p>
+          </div>
+          <div class="flex w-full flex-col items-start">
+            <div class="flex w-full py-3 border-b-[0.5px] border-ink/10">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-inbox size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <polyline points="22 12 16 12 14 15 10 15 8 12 2 12">
+                  </polyline>
+                  <path d="M5.45 5.11 2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.45-6.89A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z">
+                  </path>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  Inbox triaged, replies drafted
+                </p>
+              </div>
+            </div>
+            <div class="flex w-full py-3 border-b-[0.5px] border-ink/10">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-calendar size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="M8 2v3">
+                  </path>
+                  <path d="M16 2v3">
+                  </path>
+                  <rect x="3" y="3" width="18" height="18" rx="2">
+                  </rect>
+                  <path d="M3 9h18">
+                  </path>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  Your calendar, always in order
+                </p>
+              </div>
+            </div>
+            <div class="flex w-full py-3">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-funnel size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="M10 20a1 1 0 0 0 .553.895l2 1A1 1 0 0 0 14 21v-7a2 2 0 0 1 .517-1.341L21.74 4.67A1 1 0 0 0 21 3H3a1 1 0 0 0-.742 1.67l7.225 7.989A2 2 0 0 1 10 14z">
+                  </path>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  The busywork, off your plate
+                </p>
+              </div>
+            </div>
+          </div>
+          <a class="relative inline-flex cursor-pointer items-center justify-center rounded-full bg-ink px-4 py-2.5 text-sm font-medium leading-none text-paper transition-[opacity,scale] duration-150 hover:opacity-90 motion-safe:active:scale-[0.97] before:absolute before:inset-x-0 before:-inset-y-[5px] before:content-[&#x27;&#x27;]" href="sms:+14152999916">
+            Get Started
+          </a>
+        </div>
+        <div class="relative aspect-[540/400] w-full overflow-hidden rounded-[24px] bg-ink/[0.04] min-[1024px]:aspect-auto min-[1024px]:h-[440px] min-[1024px]:w-[540px] min-[1024px]:shrink-0">
+          <div class="pointer-events-none absolute inset-0">
+            <img alt="" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="(min-width: 1024px) 540px, 100vw" srcSet="/_next/image?url=%2Fbranded%2Fday-not-list-photo-01.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-01.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-01.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-01.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-01.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-01.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-01.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-01.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fday-not-list-photo-01.png&amp;w=3840&amp;q=75"/>
+            <div class="absolute inset-0 bg-[rgba(8,21,46,0.4)]">
+            </div>
+          </div>
+          <div aria-hidden="true" class="absolute inset-0">
+            <div class="absolute" style="left:34.07888888888889%;top:43.902125%;transform:translate(-50%, -50%) rotate(-7.83deg)">
+              <div class="relative flex w-[72px] flex-col items-center">
+                <div class="relative h-[64px] w-[64px]">
+                  <img alt="Mail" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="64px" srcSet="/_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=32&amp;q=75 32w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=48&amp;q=75 48w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=64&amp;q=75 64w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=96&amp;q=75 96w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=128&amp;q=75 128w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=256&amp;q=75 256w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=384&amp;q=75 384w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=3840&amp;q=75"/>
+                </div>
+                <span data-badge="88" class="absolute -top-[12px] left-1/2 flex min-w-[24px] items-center justify-center tabular-nums rounded-[100px] bg-[#ff383c] px-[7px] py-[2.5px] text-center text-[16px] leading-[19px] text-white translate-x-[33px]">
+                  88
+                </span>
+              </div>
+            </div>
+            <div class="absolute" style="left:45.161574074074075%;top:68.857375%;transform:translate(-50%, -50%) rotate(7.51deg)">
+              <div class="relative flex w-[72px] flex-col items-center">
+                <div class="relative h-[64px] w-[64px]">
+                  <img alt="Messages" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="64px" srcSet="/_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=32&amp;q=75 32w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=48&amp;q=75 48w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=64&amp;q=75 64w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=96&amp;q=75 96w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=128&amp;q=75 128w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=256&amp;q=75 256w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=384&amp;q=75 384w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=3840&amp;q=75"/>
+                </div>
+                <span data-badge="120" class="absolute -top-[12px] left-1/2 flex min-w-[24px] items-center justify-center tabular-nums rounded-[100px] bg-[#ff383c] px-[7px] py-[2.5px] text-center text-[16px] leading-[19px] text-white translate-x-[33px]">
+                  120
+                </span>
+              </div>
+            </div>
+            <div class="absolute" style="left:56.820092592592594%;top:31.344499999999996%;transform:translate(-50%, -50%) rotate(-7.41deg)">
+              <div class="relative flex w-[72px] flex-col items-center">
+                <div class="relative h-[64px] w-[64px]">
+                  <img alt="Calendar" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="64px" srcSet="/_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=32&amp;q=75 32w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=48&amp;q=75 48w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=64&amp;q=75 64w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=96&amp;q=75 96w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=128&amp;q=75 128w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=256&amp;q=75 256w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=384&amp;q=75 384w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=3840&amp;q=75"/>
+                </div>
+                <span data-badge="16" class="absolute -top-[12px] left-1/2 flex min-w-[24px] items-center justify-center tabular-nums rounded-[100px] bg-[#ff383c] px-[7px] py-[2.5px] text-center text-[16px] leading-[19px] text-white translate-x-[33px]">
+                  16
+                </span>
+              </div>
+            </div>
+            <div class="absolute" style="left:73.05685185185186%;top:52.339%;transform:translate(-50%, -50%) rotate(11.15deg)">
+              <div class="relative flex w-[72px] flex-col items-center">
+                <div class="relative h-[64px] w-[64px]">
+                  <img alt="Phone" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="64px" srcSet="/_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=32&amp;q=75 32w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=48&amp;q=75 48w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=64&amp;q=75 64w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=96&amp;q=75 96w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=128&amp;q=75 128w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=256&amp;q=75 256w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=384&amp;q=75 384w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=3840&amp;q=75"/>
+                </div>
+                <span data-badge="3" class="absolute -top-[12px] left-1/2 flex min-w-[24px] items-center justify-center tabular-nums rounded-[100px] bg-[#ff383c] px-[7px] py-[2.5px] text-center text-[16px] leading-[19px] text-white translate-x-[33px]">
+                  3
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-anim="divider" aria-hidden="true" class="relative h-6 w-full overflow-hidden">
+        <div class="absolute left-1/2 top-1/2 h-px w-full max-w-[1200px] -translate-x-1/2 -translate-y-1/2 bg-ink/10">
+        </div>
+        <div class="absolute left-1/2 top-1/2 h-[60px] w-[156px] -translate-x-1/2 -translate-y-1/2 bg-paper">
+          <svg viewBox="0 0 156.529 60.3879" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" class="absolute inset-0 h-full w-full text-ink">
+            <path d="M36 28.3698C36 32.6871 39.1509 35.5443 40.0837 36.2957C40.2366 36.4187 40.4453 36.4187 40.5981 36.2957C41.531 35.5444 44.6819 32.6873 44.6819 28.3701C44.6819 25.3672 43.2531 24 40.3409 24C37.4287 24 36 25.3669 36 28.3698Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M58.9354 25.9954C54.8566 27.3295 53.1309 31.229 52.7094 32.3544C52.6402 32.5387 52.7047 32.7386 52.8683 32.8468C53.8663 33.5078 57.5393 35.6416 61.618 34.3075C64.4551 33.3795 65.3053 31.5892 64.4053 28.801C63.5054 26.0129 61.7725 25.0674 58.9354 25.9954Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M81.5049 28.5863C78.9842 25.0935 74.7667 24.6463 73.5732 24.5905C73.3778 24.5813 73.2089 24.7049 73.1571 24.8948C72.841 26.0546 71.9602 30.2304 74.481 33.7231C76.2344 36.1526 78.1885 36.4132 80.5446 34.6901C82.9007 32.9669 83.2584 31.0157 81.5049 28.5863Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M98.7296 33.7233C101.25 30.2306 100.37 26.0547 100.054 24.8949C100.002 24.7048 99.833 24.5813 99.6374 24.5905C98.4441 24.6463 94.2267 25.0933 91.7059 28.586C89.9525 31.0154 90.3101 32.9668 92.6661 34.6901C95.0222 36.4132 96.9762 36.1527 98.7296 33.7233Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M111.592 34.3074C115.671 35.6415 119.344 33.5078 120.342 32.8469C120.506 32.7386 120.57 32.5387 120.501 32.3544C120.08 31.2291 118.354 27.3296 114.276 25.9955C111.438 25.0675 109.705 26.0129 108.805 28.8011C107.905 31.5892 108.755 33.3794 111.592 34.3074Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+          </svg>
+        </div>
+      </div>

@@ -1,0 +1,52 @@
+  <section aria-labelledby="live-counts-title" class="relative overflow-hidden bg-paper px-6 py-20 md:px-12 md:py-28">
+    <div class="mx-auto w-full max-w-[1000px]">
+      <div class="lc-heading flex flex-col items-center gap-4 text-center">
+        <span class="inline-flex items-center gap-2 rounded-full bg-ink/[0.04] px-3 py-1.5 text-[12px] uppercase tracking-[0.14em] text-ink/55">
+          <span class="relative flex size-1.5">
+            <span class="absolute inline-flex size-full animate-ping rounded-full bg-ink/40">
+            </span>
+            <span class="relative inline-flex size-1.5 rounded-full bg-ink/70">
+            </span>
+          </span>
+          Live
+        </span>
+        <h2 id="live-counts-title" class="mx-auto max-w-[min(92vw,620px)] text-balance font-serif font-normal leading-[1.1] tracking-[-0.03em] text-ink text-[clamp(28px,4vw,44px)]">
+          Orchid is working right now.
+        </h2>
+      </div>
+      <div class="mt-12 grid grid-cols-1 gap-10 sm:grid-cols-2 sm:gap-0 sm:divide-x sm:divide-ink/10">
+        <div class="lc-item flex flex-col items-center gap-3 px-4 text-center sm:px-10">
+          <span class="font-serif tabular-nums leading-none tracking-[-0.03em] text-ink text-[clamp(44px,7vw,84px)]">
+            <span aria-hidden="true">
+              848,195
+            </span>
+            <span class="sr-only">
+              848,195
+            </span>
+          </span>
+          <h3 class="font-serif text-[19px] leading-[1.1] tracking-[-0.01em] text-ink">
+            Emails processed
+          </h3>
+          <p class="max-w-[280px] text-pretty text-[14px] leading-[1.5] text-ink/60">
+            Triaged, drafted, and handled end to end.
+          </p>
+        </div>
+        <div class="lc-item flex flex-col items-center gap-3 px-4 text-center sm:px-10">
+          <span class="font-serif tabular-nums leading-none tracking-[-0.03em] text-ink text-[clamp(44px,7vw,84px)]">
+            <span aria-hidden="true">
+              1,760,018
+            </span>
+            <span class="sr-only">
+              1,760,018
+            </span>
+          </span>
+          <h3 class="font-serif text-[19px] leading-[1.1] tracking-[-0.01em] text-ink">
+            Actions logged
+          </h3>
+          <p class="max-w-[280px] text-pretty text-[14px] leading-[1.5] text-ink/60">
+            Every decision Orchid made, on the record.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>

@@ -1,0 +1,15 @@
+  <section aria-label="What people say about Orchid" class="relative flex min-h-[90vh] flex-col items-center justify-center overflow-hidden bg-paper px-6 py-24">
+    <div class="relative z-10 flex flex-col items-center">
+      <div class="relative mb-9 size-[clamp(74px,8vw,96px)] overflow-hidden rounded-[22px] bg-white shadow-[0_20px_55px_-14px_rgba(8,21,46,0.4)]">
+        <img alt="Maha" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="96px" srcSet="/_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=32&amp;q=75 32w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=48&amp;q=75 48w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=64&amp;q=75 64w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=96&amp;q=75 96w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=128&amp;q=75 128w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=256&amp;q=75 256w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=384&amp;q=75 384w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=3840&amp;q=75"/>
+      </div>
+      <div class="flex min-h-[280px] w-full max-w-[940px] items-center justify-center md:min-h-[200px]">
+        <blockquote aria-live="polite" class="text-balance text-center font-serif font-normal tracking-[-0.02em] text-ink text-[clamp(26px,3.8vw,44px)]">
+          “Orchid checks in on me every morning and hypes me up before big days. Vitamins, workouts, my mom’s birthday. It never drops the ball, so I don’t either.”
+        </blockquote>
+      </div>
+      <cite class="mt-7 block text-center text-sm font-medium not-italic tracking-wide text-ink/55">
+        – Maha
+      </cite>
+    </div>
+  </section>

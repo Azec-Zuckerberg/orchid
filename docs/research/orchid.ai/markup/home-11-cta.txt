@@ -1,0 +1,18 @@
+  <section aria-labelledby="cta-title" class="px-6 py-16 md:px-[120px] md:py-24">
+    <div class="relative mx-auto flex aspect-[16/9] w-full max-w-[1440px] items-center justify-center overflow-hidden rounded-[32px]">
+      <img alt="" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="(min-width: 1440px) 1440px, 100vw" srcSet="/_next/image?url=%2Fbranded%2Fstore-at-dusk.jpeg&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fstore-at-dusk.jpeg&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fstore-at-dusk.jpeg&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fstore-at-dusk.jpeg&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fstore-at-dusk.jpeg&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fstore-at-dusk.jpeg&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fstore-at-dusk.jpeg&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fstore-at-dusk.jpeg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fstore-at-dusk.jpeg&amp;w=3840&amp;q=75"/>
+      <div aria-hidden="true" class="absolute inset-0 bg-[rgba(8,21,46,0.35)]">
+      </div>
+      <div class="relative z-10 flex flex-col items-center gap-8 px-6 text-center md:gap-10 md:px-12">
+        <h2 id="cta-title" class="cta-headline max-w-[720px] font-serif font-medium text-paper leading-[1.05] tracking-[-0.04em] text-[clamp(40px,6vw,80px)]">
+          Meet your new assistant.
+        </h2>
+        <div class="cta-ctas flex items-center gap-3">
+          <a class="relative inline-flex cursor-pointer items-center gap-2.5 rounded-full bg-paper px-6 py-4 text-sm font-medium leading-none text-ink transition-[opacity,scale] duration-150 hover:opacity-90 motion-safe:active:scale-[0.96] before:absolute before:inset-x-0 before:-inset-y-[5px] before:content-[&#x27;&#x27;]" href="sms:+14152999916">
+            <img alt="" aria-hidden="true" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" class="size-5 select-none" style="color:transparent" srcSet="/_next/image?url=%2Fbranded%2Fimessage-icon.png&amp;w=32&amp;q=75 1x, /_next/image?url=%2Fbranded%2Fimessage-icon.png&amp;w=48&amp;q=75 2x" src="/_next/image?url=%2Fbranded%2Fimessage-icon.png&amp;w=48&amp;q=75"/>
+            Get Started
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>

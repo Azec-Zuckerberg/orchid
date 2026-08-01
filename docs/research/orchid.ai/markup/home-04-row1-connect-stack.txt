@@ -1,0 +1,125 @@
+      <div data-anim="row" class="flex flex-col gap-10 min-[1024px]:items-center min-[1024px]:gap-[64px] min-[1024px]:flex-row">
+        <div class="flex flex-1 flex-col items-start gap-8 py-4 min-[1024px]:min-w-px">
+          <div class="flex w-full flex-col items-start gap-[12px]">
+            <h3 class="font-serif text-[28px] leading-[1.1] tracking-[-0.03em] text-ink">
+              Connect with your stack.
+            </h3>
+            <p class="text-[16px] leading-[1.5] text-ink/65" style="max-width:470px">
+              Orchid learns the way you work, with your tools. Not the other way around.
+            </p>
+          </div>
+          <div class="flex w-full flex-col items-start">
+            <div class="flex w-full py-3 border-b-[0.5px] border-ink/10">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-link2 lucide-link-2 size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="M9 17H7A5 5 0 0 1 7 7h2">
+                  </path>
+                  <path d="M15 7h2a5 5 0 1 1 0 10h-2">
+                  </path>
+                  <line x1="8" x2="16" y1="12" y2="12">
+                  </line>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  Connect once, it just works
+                </p>
+              </div>
+            </div>
+            <div class="flex w-full py-3 border-b-[0.5px] border-ink/10">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-blocks size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="M10 22V7a1 1 0 0 0-1-1H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-5a1 1 0 0 0-1-1H2">
+                  </path>
+                  <rect x="14" y="2" width="8" height="8" rx="1">
+                  </rect>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  Pulls from all your apps
+                </p>
+              </div>
+            </div>
+            <div class="flex w-full py-3">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-workflow size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <rect width="8" height="8" x="3" y="3" rx="2">
+                  </rect>
+                  <path d="M7 11v4a2 2 0 0 0 2 2h4">
+                  </path>
+                  <rect width="8" height="8" x="13" y="13" rx="2">
+                  </rect>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  A hundred tools, one assistant
+                </p>
+              </div>
+            </div>
+          </div>
+          <a class="relative inline-flex cursor-pointer items-center justify-center rounded-full bg-ink px-4 py-2.5 text-sm font-medium leading-none text-paper transition-[opacity,scale] duration-150 hover:opacity-90 motion-safe:active:scale-[0.97] before:absolute before:inset-x-0 before:-inset-y-[5px] before:content-[&#x27;&#x27;]" href="sms:+14152999916">
+            Get Started
+          </a>
+        </div>
+        <div class="relative aspect-[540/400] w-full overflow-hidden rounded-[24px] bg-ink/[0.04] min-[1024px]:aspect-auto min-[1024px]:h-[440px] min-[1024px]:w-[540px] min-[1024px]:shrink-0">
+          <div class="pointer-events-none absolute inset-0">
+            <img alt="" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="(min-width: 1024px) 540px, 100vw" srcSet="/_next/image?url=%2Fbranded%2Fcoffee-and-phones.jpeg&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fcoffee-and-phones.jpeg&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fcoffee-and-phones.jpeg&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fcoffee-and-phones.jpeg&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fcoffee-and-phones.jpeg&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fcoffee-and-phones.jpeg&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fcoffee-and-phones.jpeg&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fcoffee-and-phones.jpeg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fcoffee-and-phones.jpeg&amp;w=3840&amp;q=75"/>
+            <div class="absolute inset-0 bg-[rgba(8,21,46,0.4)]">
+            </div>
+          </div>
+          <div aria-hidden="true" class="absolute inset-0">
+            <div class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
+              <div class="cn-center grid size-[68px] place-items-center rounded-[18px] bg-white shadow-[0_16px_44px_rgba(0,0,0,0.4)]">
+                <div class="relative size-[50px] overflow-hidden rounded-[13px]">
+                  <img alt="" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="50px" srcSet="/_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=32&amp;q=75 32w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=48&amp;q=75 48w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=64&amp;q=75 64w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=96&amp;q=75 96w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=128&amp;q=75 128w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=256&amp;q=75 256w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=384&amp;q=75 384w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=3840&amp;q=75"/>
+                </div>
+              </div>
+            </div>
+            <div class="absolute" style="left:19%;top:26%;transform:translate(-50%, -50%)">
+              <div class="cn-float inline-flex">
+                <div class="cn-chip grid place-items-center rounded-[14px] bg-white shadow-[0_10px_26px_rgba(0,0,0,0.32)]" style="width:56px;height:56px">
+                  <img src="/logos/providers/gmail.svg" alt="" class="object-contain" style="width:30px;height:30px"/>
+                </div>
+              </div>
+            </div>
+            <div class="absolute" style="left:44%;top:14%;transform:translate(-50%, -50%)">
+              <div class="cn-float inline-flex">
+                <div class="cn-chip grid place-items-center rounded-[14px] bg-white shadow-[0_10px_26px_rgba(0,0,0,0.32)]" style="width:46px;height:46px">
+                  <img src="/logos/providers/google-calendar.png" alt="" class="object-contain" style="width:25px;height:25px"/>
+                </div>
+              </div>
+            </div>
+            <div class="absolute" style="left:72%;top:22%;transform:translate(-50%, -50%)">
+              <div class="cn-float inline-flex">
+                <div class="cn-chip grid place-items-center rounded-[14px] bg-white shadow-[0_10px_26px_rgba(0,0,0,0.32)]" style="width:52px;height:52px">
+                  <img src="/logos/providers/slack.png" alt="" class="object-contain" style="width:28px;height:28px"/>
+                </div>
+              </div>
+            </div>
+            <div class="absolute" style="left:86%;top:50%;transform:translate(-50%, -50%)">
+              <div class="cn-float inline-flex">
+                <div class="cn-chip grid place-items-center rounded-[14px] bg-white shadow-[0_10px_26px_rgba(0,0,0,0.32)]" style="width:44px;height:44px">
+                  <img src="/logos/providers/notion.png" alt="" class="object-contain" style="width:24px;height:24px"/>
+                </div>
+              </div>
+            </div>
+            <div class="absolute" style="left:66%;top:73%;transform:translate(-50%, -50%)">
+              <div class="cn-float inline-flex">
+                <div class="cn-chip grid place-items-center rounded-[14px] bg-white shadow-[0_10px_26px_rgba(0,0,0,0.32)]" style="width:54px;height:54px">
+                  <img src="/logos/providers/figma.svg" alt="" class="object-contain" style="width:29px;height:29px"/>
+                </div>
+              </div>
+            </div>
+            <div class="absolute" style="left:37%;top:80%;transform:translate(-50%, -50%)">
+              <div class="cn-float inline-flex">
+                <div class="cn-chip grid place-items-center rounded-[14px] bg-white shadow-[0_10px_26px_rgba(0,0,0,0.32)]" style="width:48px;height:48px">
+                  <img src="/logos/providers/dropbox.png" alt="" class="object-contain" style="width:26px;height:26px"/>
+                </div>
+              </div>
+            </div>
+            <div class="absolute" style="left:13%;top:58%;transform:translate(-50%, -50%)">
+              <div class="cn-float inline-flex">
+                <div class="cn-chip grid place-items-center rounded-[14px] bg-white shadow-[0_10px_26px_rgba(0,0,0,0.32)]" style="width:50px;height:50px">
+                  <img src="/logos/providers/hubspot.png" alt="" class="object-contain" style="width:27px;height:27px"/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>

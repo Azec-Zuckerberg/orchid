@@ -1,0 +1,118 @@
+      <div data-anim="row" class="flex flex-col gap-10 min-[1024px]:items-center min-[1024px]:gap-[64px] min-[1024px]:flex-row">
+        <div class="flex flex-1 flex-col items-start gap-8 py-4 min-[1024px]:min-w-px">
+          <div class="flex w-full flex-col items-start gap-[12px]">
+            <h3 class="font-serif text-[28px] leading-[1.1] tracking-[-0.03em] text-ink">
+              Your second brain.
+            </h3>
+            <p class="text-[16px] leading-[1.5] text-ink/65" style="max-width:470px">
+              The wine you loved, your kid&#x27;s allergy, where you parked. Tell Orchid once and it never forgets.
+            </p>
+          </div>
+          <div class="flex w-full flex-col items-start">
+            <div class="flex w-full py-3 border-b-[0.5px] border-ink/10">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-brain size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="M12 18V5">
+                  </path>
+                  <path d="M15 13a4.17 4.17 0 0 1-3-4 4.17 4.17 0 0 1-3 4">
+                  </path>
+                  <path d="M17.598 6.5A3 3 0 1 0 12 5a3 3 0 1 0-5.598 1.5">
+                  </path>
+                  <path d="M17.997 5.125a4 4 0 0 1 2.526 5.77">
+                  </path>
+                  <path d="M18 18a4 4 0 0 0 2-7.464">
+                  </path>
+                  <path d="M19.967 17.483A4 4 0 1 1 12 18a4 4 0 1 1-7.967-.517">
+                  </path>
+                  <path d="M6 18a4 4 0 0 1-2-7.464">
+                  </path>
+                  <path d="M6.003 5.125a4 4 0 0 0-2.526 5.77">
+                  </path>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  Never forgets a detail
+                </p>
+              </div>
+            </div>
+            <div class="flex w-full py-3 border-b-[0.5px] border-ink/10">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sparkles size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z">
+                  </path>
+                  <path d="M20 2v4">
+                  </path>
+                  <path d="M22 4h-4">
+                  </path>
+                  <circle cx="4" cy="20" r="2">
+                  </circle>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  Recalls it the second you need it
+                </p>
+              </div>
+            </div>
+            <div class="flex w-full py-3">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-heart size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5">
+                  </path>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  Remembers what matters to you
+                </p>
+              </div>
+            </div>
+          </div>
+          <a class="relative inline-flex cursor-pointer items-center justify-center rounded-full bg-ink px-4 py-2.5 text-sm font-medium leading-none text-paper transition-[opacity,scale] duration-150 hover:opacity-90 motion-safe:active:scale-[0.97] before:absolute before:inset-x-0 before:-inset-y-[5px] before:content-[&#x27;&#x27;]" href="sms:+14152999916">
+            Get Started
+          </a>
+        </div>
+        <div class="relative aspect-[540/400] w-full overflow-hidden rounded-[24px] bg-ink/[0.04] min-[1024px]:aspect-auto min-[1024px]:h-[440px] min-[1024px]:w-[540px] min-[1024px]:shrink-0">
+          <div class="pointer-events-none absolute inset-0">
+            <img alt="" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="(min-width: 1024px) 540px, 100vw" srcSet="/_next/image?url=%2Fbranded%2Fday-not-list-photo-02.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-02.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-02.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-02.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-02.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-02.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-02.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-02.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fday-not-list-photo-02.png&amp;w=3840&amp;q=75"/>
+            <div class="absolute inset-0 bg-[rgba(8,21,46,0.4)]">
+            </div>
+          </div>
+          <div aria-hidden="true" class="absolute inset-0 flex items-center justify-center p-6">
+            <div class="flex w-[340px] max-w-[calc(100%-40px)] flex-col [container-type:inline-size]">
+              <div class="">
+                <div class="flex w-full transition-[margin,padding] duration-300 ease-out justify-end pb-[1.49cqw]">
+                  <div class="relative max-w-[69.65cqw] rounded-[4.98cqw] px-[2.99cqw] py-[2.24cqw] bg-[#0088ff] text-white" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                    <p class="whitespace-pre-wrap leading-[1.295] tracking-[-0.005em] text-[4.23cqw]">
+                      what was that restaurant we loved for our anniversary?
+                    </p>
+                    <span aria-hidden="true" class="pointer-events-none absolute -bottom-[1.73cqw] h-[4.46cqw] w-[4.23cqw] transition-opacity duration-300 ease-out opacity-100 right-[1.75cqw] origin-bottom-right">
+                      <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full text-[#0088ff]" fill="currentColor" preserveAspectRatio="none">
+                        <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                        </path>
+                      </svg>
+                    </span>
+                  </div>
+                </div>
+              </div>
+              <div class="flex justify-start mt-[3.5cqw]">
+                <span class="block w-[42cqw] overflow-hidden rounded-[4.98cqw] shadow-[0_6px_20px_rgba(0,0,0,0.28)]">
+                  <img src="/branded/tartine.jpeg" alt="" class="block h-auto w-full"/>
+                </span>
+              </div>
+              <div class="mt-[1cqw]">
+                <div class="flex w-full transition-[margin,padding] duration-300 ease-out justify-start pb-[1.49cqw]">
+                  <div class="relative max-w-[69.65cqw] rounded-[4.98cqw] px-[2.99cqw] py-[2.24cqw] bg-[var(--ios-bubble-received)] text-[var(--ios-text-primary)]" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                    <p class="whitespace-pre-wrap leading-[1.295] tracking-[-0.005em] text-[4.23cqw]">
+                      Tartine, last march. you had the morning bun 🥐
+                    </p>
+                    <span aria-hidden="true" class="pointer-events-none absolute -bottom-[1.73cqw] h-[4.46cqw] w-[4.23cqw] transition-opacity duration-300 ease-out opacity-100 left-[1.75cqw] origin-bottom-left">
+                      <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full -scale-x-100 text-[var(--ios-bubble-received)]" fill="currentColor" preserveAspectRatio="none">
+                        <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                        </path>
+                      </svg>
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>

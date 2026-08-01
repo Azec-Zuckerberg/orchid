@@ -1,0 +1,239 @@
+  <section class="relative isolate overflow-hidden bg-paper">
+    <div class="flex flex-col items-center gap-7 px-6 pt-28 text-center md:gap-8 md:px-[120px] md:pt-36">
+      <h1 class="hero-reveal max-w-[min(92vw,738px)] text-balance font-serif text-[clamp(40px,7vw,64px)] font-medium leading-[1.05] tracking-[-0.04em] text-ink">
+        <span class="sr-only">
+          Meet Orchid, your personal assistant.
+        </span>
+        <span aria-hidden="true" class="block">
+          Meet Orchid, your
+          <span class="flex justify-center">
+            <span class="inline-flex items-baseline whitespace-nowrap will-change-[transform,opacity,filter]">
+              <span class="italic">
+                personal assistant
+              </span>
+              <span aria-hidden="true">
+                .
+              </span>
+            </span>
+          </span>
+        </span>
+      </h1>
+      <p class="hero-reveal max-w-[min(92vw,520px)] text-balance text-base leading-[1.5] text-ink/75 text-pretty">
+        Orchid is a personal assistant that helps you stay organized, find information, and get things done. All through messages.
+      </p>
+      <div class="hero-reveal">
+        <a class="relative inline-flex cursor-pointer items-center gap-2 rounded-full bg-card px-4 py-2.5 text-sm font-medium leading-none text-ink ring-1 ring-ink/10 shadow-[0_2px_8px_rgba(8,21,46,0.06)] transition-[transform,box-shadow] duration-150 hover:shadow-[0_4px_16px_rgba(8,21,46,0.10)] motion-safe:active:scale-[0.97] before:absolute before:inset-x-0 before:-inset-y-[5px] before:content-[&#x27;&#x27;]" href="sms:+14152999916">
+          <img alt="" aria-hidden="true" width="20" height="20" decoding="async" data-nimg="1" class="size-5 select-none" style="color:transparent" srcSet="/_next/image?url=%2Fbranded%2Fimessage-icon.png&amp;w=32&amp;q=75 1x, /_next/image?url=%2Fbranded%2Fimessage-icon.png&amp;w=48&amp;q=75 2x" src="/_next/image?url=%2Fbranded%2Fimessage-icon.png&amp;w=48&amp;q=75"/>
+          Get Started
+        </a>
+      </div>
+    </div>
+    <div class="-mt-9 px-6 pb-12 md:mt-[calc(clamp(0px,(100vw_-_48rem)_*_0.08,3.5rem)_*_-1)] md:px-[120px] md:pb-16">
+      <div class="hero-reveal pointer-events-none relative mx-[calc((100%_-_min(200%,800px))_/_2)] aspect-[1200/1080] w-[min(200%,800px)] max-w-[1200px] [container-type:inline-size] md:mx-auto md:w-full">
+        <div class="absolute inset-0">
+          <div class="absolute left-1/2 top-[10.75cqw] w-[37.5%] -translate-x-1/2">
+            <div class="relative aspect-[450/920] w-full will-change-transform">
+              <div class="absolute inset-x-[5.33%] inset-y-[2.5%] [container-type:inline-size]">
+                <div class="absolute inset-0 overflow-hidden rounded-[16cqw]">
+                  <div data-glass-content="true" class="absolute inset-0">
+                    <div class="absolute inset-x-0 top-0 z-10 flex items-center justify-between px-[12cqw] pt-[6.2cqw] pb-[4.7cqw] text-[var(--ios-text-primary)]" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                      <span class="font-[590] text-[4.23cqw] leading-none">
+                        9:41
+                      </span>
+                      <div class="flex items-center gap-[1.74cqw] text-[var(--ios-text-primary)]">
+                        <svg aria-hidden="true" viewBox="0 0 16 12" class="h-[3.07cqw] w-auto" fill="currentColor">
+                          <path d="M8 1 C4 1 1.4 2.6 0 4.2 L1.6 5.8 C2.6 4.5 4.7 3.4 8 3.4 C11.3 3.4 13.4 4.5 14.4 5.8 L16 4.2 C14.6 2.6 12 1 8 1 Z">
+                          </path>
+                          <path d="M8 5 C5.6 5 3.8 6 2.8 7 L4.4 8.6 C5 7.9 6.3 7.2 8 7.2 C9.7 7.2 11 7.9 11.6 8.6 L13.2 7 C12.2 6 10.4 5 8 5 Z">
+                          </path>
+                          <circle cx="8" cy="10.4" r="1.4">
+                          </circle>
+                        </svg>
+                        <svg aria-hidden="true" viewBox="0 0 26 12" class="h-[3.23cqw] w-auto" fill="none">
+                          <rect x="0.5" y="0.5" width="22" height="11" rx="2.4" stroke="currentColor" stroke-opacity="0.4">
+                          </rect>
+                          <rect x="2" y="2" width="19" height="8" rx="1.4" fill="currentColor">
+                          </rect>
+                          <rect x="23.4" y="4" width="1.6" height="4" rx="0.6" fill="currentColor" fill-opacity="0.4">
+                          </rect>
+                        </svg>
+                      </div>
+                    </div>
+                    <div class="absolute inset-x-0 top-[9%] z-10 h-[9.95%] px-[3.98cqw]" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                      <div class="relative flex h-full items-start justify-between">
+                        <div class="relative inline-flex items-center justify-center rounded-full bg-[var(--ios-glass)] backdrop-blur-[5cqw] shadow-[0_0_0_0.12cqw_rgba(0,0,0,0.04),0_0.5cqw_1.5cqw_-0.25cqw_rgba(0,0,0,0.05)] h-[10.95cqw] gap-[1cqw] px-[2cqw] text-[var(--ios-toolbar-icon)]">
+                          <svg width="4.23cqw" height="4.23cqw" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="text-[var(--ios-toolbar-icon)]">
+                            <path d="M15 6l-6 6 6 6">
+                            </path>
+                          </svg>
+                          <span class="grid size-[5.22cqw] place-items-center rounded-full bg-[var(--ios-text-primary)] text-[2.99cqw] font-[590] text-[var(--ios-bg)]">
+                            2
+                          </span>
+                        </div>
+                        <div class="absolute left-1/2 top-0 size-[14.93cqw] -translate-x-1/2">
+                          <span class="absolute inset-0 overflow-hidden rounded-full shadow-[0_0.6cqw_0.5cqw_rgba(0,0,0,0.1)]">
+                            <img alt="" aria-hidden="true" src="/illustrations/channels/orchid-icon.png" class="h-full w-full object-cover select-none"/>
+                          </span>
+                          <div class="absolute left-1/2 top-[91.67%] flex h-[7.96cqw] -translate-x-1/2 items-center gap-[1cqw] rounded-full bg-[var(--ios-glass)] pl-[3.48cqw] pr-[1.74cqw] backdrop-blur-[5cqw] shadow-[0_0_0_0.12cqw_rgba(0,0,0,0.04),0_0.5cqw_1.5cqw_-0.25cqw_rgba(0,0,0,0.05)]">
+                            <span class="font-bold leading-none text-[4.23cqw] text-[var(--ios-text-primary)] whitespace-nowrap" style="font-variation-settings:&#x27;wdth&#x27; 100">
+                              Orchid
+                            </span>
+                            <span class="text-[4.23cqw] leading-none text-[var(--ios-text-secondary)]">
+                              ›
+                            </span>
+                          </div>
+                        </div>
+                        <div class="relative inline-flex items-center justify-center rounded-full bg-[var(--ios-glass)] backdrop-blur-[5cqw] shadow-[0_0_0_0.12cqw_rgba(0,0,0,0.04),0_0.5cqw_1.5cqw_-0.25cqw_rgba(0,0,0,0.05)] size-[10.95cqw] text-[var(--ios-toolbar-icon)]">
+                          <svg width="4.98cqw" height="4.98cqw" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                            <path d="M3.4 6.6c-1 0-1.7.7-1.7 1.7v7.4c0 1 .7 1.7 1.7 1.7h9.4c1 0 1.7-.7 1.7-1.7v-1.4l4.3 2.7c.7.4 1.5-.1 1.5-.9V7.9c0-.8-.8-1.3-1.5-.9l-4.3 2.7V8.3c0-1-.7-1.7-1.7-1.7H3.4z">
+                            </path>
+                          </svg>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="absolute inset-x-0 top-[7%] bottom-[0.92%] z-0 overflow-hidden" style="-webkit-mask-image:linear-gradient(to bottom, transparent 0%, black 25%, black 100%);mask-image:linear-gradient(to bottom, transparent 0%, black 25%, black 100%);-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-size:100% 100%;mask-size:100% 100%">
+                      <div class="absolute inset-x-0 flex items-center justify-center gap-[1cqw] py-[1cqw] text-[2.74cqw] leading-none text-[var(--ios-text-secondary)]" style="top:16%;font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                        <span class="font-[510]">
+                          Today
+                        </span>
+                        <span>
+                          8:05 AM
+                        </span>
+                      </div>
+                      <div class="absolute inset-x-0 top-[19%] bottom-[8.58cqw] px-[3.98cqw]" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                        <div class="flex flex-col gap-[1cqw] will-change-transform">
+                          <div class="flex w-full transition-[margin,padding] duration-300 ease-out justify-end pb-0">
+                            <div class="relative max-w-[69.65cqw] rounded-[4.98cqw] px-[2.99cqw] py-[2.24cqw] bg-[#0088ff] text-white" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                              <p class="whitespace-pre-wrap leading-[1.295] tracking-[-0.005em] text-[4.23cqw]">
+                                ok i need aruba. like soon 🏝️
+                              </p>
+                              <span aria-hidden="true" class="pointer-events-none absolute -bottom-[1.73cqw] h-[4.46cqw] w-[4.23cqw] transition-opacity duration-300 ease-out opacity-0 right-[1.75cqw] origin-bottom-right">
+                                <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full text-[#0088ff]" fill="currentColor" preserveAspectRatio="none">
+                                  <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                                  </path>
+                                </svg>
+                              </span>
+                            </div>
+                          </div>
+                          <div class="flex w-full transition-[margin,padding] duration-300 ease-out justify-start pb-0">
+                            <div class="relative max-w-[69.65cqw] rounded-[4.98cqw] px-[2.99cqw] py-[2.24cqw] bg-[var(--ios-bubble-received)] text-[var(--ios-text-primary)]" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                              <p class="whitespace-pre-wrap leading-[1.295] tracking-[-0.005em] text-[4.23cqw]">
+                                say less. found a villa in palm beach. private pool, 3 min from the sand.
+                              </p>
+                              <span aria-hidden="true" class="pointer-events-none absolute -bottom-[1.73cqw] h-[4.46cqw] w-[4.23cqw] transition-opacity duration-300 ease-out opacity-0 left-[1.75cqw] origin-bottom-left">
+                                <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full -scale-x-100 text-[var(--ios-bubble-received)]" fill="currentColor" preserveAspectRatio="none">
+                                  <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                                  </path>
+                                </svg>
+                              </span>
+                            </div>
+                          </div>
+                          <div class="flex w-full transition-[margin,padding] duration-300 ease-out mb-[3cqw] justify-start pb-0">
+                            <div class="relative aspect-[4/5] w-[54cqw]">
+                              <img src="/branded/aruba.webp" alt="" aria-hidden="true" draggable="false" class="absolute inset-0 h-full w-full select-none rounded-[4.98cqw] object-cover shadow-[0_0.5cqw_2cqw_rgba(8,21,46,0.28)]" style="z-index:3;transform-origin:center center;transform:translate(0cqw, 0cqw) rotate(0deg)"/>
+                              <img src="/branded/aruba_party.webp" alt="" aria-hidden="true" draggable="false" class="absolute inset-0 h-full w-full select-none rounded-[4.98cqw] object-cover shadow-[0_0.5cqw_2cqw_rgba(8,21,46,0.28)]" style="z-index:2;transform-origin:center center;transform:translate(8.5cqw, 0.8cqw) rotate(2deg)"/>
+                              <img src="/branded/beach.jpeg" alt="" aria-hidden="true" draggable="false" class="absolute inset-0 h-full w-full select-none rounded-[4.98cqw] object-cover shadow-[0_0.5cqw_2cqw_rgba(8,21,46,0.28)]" style="z-index:1;transform-origin:center center;transform:translate(17cqw, 1.6cqw) rotate(4deg)"/>
+                            </div>
+                          </div>
+                          <div class="flex w-full transition-[margin,padding] duration-300 ease-out justify-start pb-0">
+                            <div class="relative max-w-[69.65cqw] rounded-[4.98cqw] px-[2.99cqw] py-[2.24cqw] bg-[var(--ios-bubble-received)] text-[var(--ios-text-primary)]" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                              <p class="whitespace-pre-wrap leading-[1.295] tracking-[-0.005em] text-[4.23cqw]">
+                                $240/night, free cancellation. flights are $380 round trip, thursday to tuesday.
+                              </p>
+                              <span aria-hidden="true" class="pointer-events-none absolute -bottom-[1.73cqw] h-[4.46cqw] w-[4.23cqw] transition-opacity duration-300 ease-out opacity-0 left-[1.75cqw] origin-bottom-left">
+                                <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full -scale-x-100 text-[var(--ios-bubble-received)]" fill="currentColor" preserveAspectRatio="none">
+                                  <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                                  </path>
+                                </svg>
+                              </span>
+                            </div>
+                          </div>
+                          <div class="flex w-full transition-[margin,padding] duration-300 ease-out justify-start pb-0">
+                            <div class="relative max-w-[69.65cqw] rounded-[4.98cqw] px-[2.99cqw] py-[2.24cqw] bg-[var(--ios-bubble-received)] text-[var(--ios-text-primary)]" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                              <p class="whitespace-pre-wrap leading-[1.295] tracking-[-0.005em] text-[4.23cqw]">
+                                tap here to pay and you&#x27;re locked in 💵
+                                <span class="underline underline-offset-2 text-[#0a84ff]">
+                                  expedia.com/pay/5723190d
+                                </span>
+                              </p>
+                              <span aria-hidden="true" class="pointer-events-none absolute -bottom-[1.73cqw] h-[4.46cqw] w-[4.23cqw] transition-opacity duration-300 ease-out opacity-0 left-[1.75cqw] origin-bottom-left">
+                                <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full -scale-x-100 text-[var(--ios-bubble-received)]" fill="currentColor" preserveAspectRatio="none">
+                                  <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                                  </path>
+                                </svg>
+                              </span>
+                            </div>
+                          </div>
+                          <div class="flex w-full transition-[margin,padding] duration-300 ease-out justify-end pb-[1.49cqw] mt-[7.5cqw]">
+                            <div class="relative max-w-[69.65cqw] rounded-[4.98cqw] px-[2.99cqw] py-[2.24cqw] bg-[#0088ff] text-white" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                              <p class="whitespace-pre-wrap leading-[1.295] tracking-[-0.005em] text-[4.23cqw]">
+                                done ✅
+                              </p>
+                              <span aria-hidden="true" class="pointer-events-none absolute -bottom-[1.73cqw] h-[4.46cqw] w-[4.23cqw] transition-opacity duration-300 ease-out opacity-100 right-[1.75cqw] origin-bottom-right">
+                                <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full text-[#0088ff]" fill="currentColor" preserveAspectRatio="none">
+                                  <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                                  </path>
+                                </svg>
+                              </span>
+                              <span aria-hidden="true" data-tapback="true" class="pointer-events-none absolute z-10 grid size-[8.96cqw] place-items-center rounded-full bg-[#08f] shadow-[0_0.5cqw_1.5cqw_-0.25cqw_rgba(0,0,0,0.22)] -top-[6.97cqw] -left-[3.74cqw]">
+                                <span class="text-[4.23cqw] leading-none">
+                                  🔥
+                                </span>
+                              </span>
+                              <span aria-hidden="true" data-tapback="true" class="pointer-events-none absolute z-10 size-[2.99cqw] rounded-full bg-[#08f] shadow-[0_0.25cqw_0.6cqw_rgba(0,0,0,0.18)] -top-[0.25cqw] -left-[3.74cqw]">
+                              </span>
+                              <span aria-hidden="true" data-tapback="true" class="pointer-events-none absolute z-10 size-[1.49cqw] rounded-full bg-[#08f] shadow-[0_0.18cqw_0.45cqw_rgba(0,0,0,0.15)] top-[2.74cqw] -left-[4.48cqw]">
+                              </span>
+                            </div>
+                          </div>
+                          <div class="flex w-full transition-[margin,padding] duration-300 ease-out justify-start pb-[1.49cqw]">
+                            <div class="relative max-w-[69.65cqw] rounded-[4.98cqw] px-[2.99cqw] py-[2.24cqw] bg-[var(--ios-bubble-received)] text-[var(--ios-text-primary)]" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                              <p class="whitespace-pre-wrap leading-[1.295] tracking-[-0.005em] text-[4.23cqw]">
+                                🙌 it&#x27;s on your calendar. made you an itinerary too. sunset catamaran thursday + that ceviche spot you saved 🌅
+                              </p>
+                              <span aria-hidden="true" class="pointer-events-none absolute -bottom-[1.73cqw] h-[4.46cqw] w-[4.23cqw] transition-opacity duration-300 ease-out opacity-100 left-[1.75cqw] origin-bottom-left">
+                                <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full -scale-x-100 text-[var(--ios-bubble-received)]" fill="currentColor" preserveAspectRatio="none">
+                                  <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                                  </path>
+                                </svg>
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="absolute inset-x-0 bottom-0 z-10 flex items-center gap-[2.99cqw] px-[6.97cqw] pt-[1cqw] pb-[6.97cqw]" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                      <div class="relative inline-flex items-center justify-center rounded-full bg-[var(--ios-glass)] backdrop-blur-[5cqw] shadow-[0_0_0_0.12cqw_rgba(0,0,0,0.04),0_0.5cqw_1.5cqw_-0.25cqw_rgba(0,0,0,0.05)] size-[9.95cqw] text-[var(--ios-toolbar-icon)]">
+                        <svg width="4.98cqw" height="4.98cqw" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                          <path d="M12 5v14M5 12h14">
+                          </path>
+                        </svg>
+                      </div>
+                      <div class="relative inline-flex items-center rounded-full bg-[var(--ios-glass)] backdrop-blur-[5cqw] shadow-[0_0_0_0.12cqw_rgba(0,0,0,0.04),0_0.5cqw_1.5cqw_-0.25cqw_rgba(0,0,0,0.05)] h-[9.95cqw] flex-1 justify-between gap-[1.99cqw] pl-[4.48cqw] pr-[2.49cqw]">
+                        <span class="text-[4.23cqw] font-[510] leading-none text-[var(--ios-placeholder-text)]">
+                          iMessage
+                        </span>
+                        <span class="grid size-[5.47cqw] place-items-center rounded-full bg-[var(--ios-overlay)] text-[var(--ios-toolbar-icon)]">
+                          <svg width="3cqw" height="3cqw" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                            <path d="M12 19V5M6 11l6-6 6 6">
+                            </path>
+                          </svg>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <img aria-hidden="true" alt="" src="/illustrations/channels/iphone-17-pro-silver.png" class="pointer-events-none absolute inset-0 z-10 h-full w-full select-none"/>
+            </div>
+          </div>
+          <div aria-hidden="true" class="pointer-events-none absolute inset-0">
+            <img alt="" src="/illustrations/channels/petal.svg" class="absolute h-[2.667cqw] w-[1.867cqw] select-none" style="left:68.225%;top:9.125cqw;transform:translate(-50%, -50%) rotate(30deg)"/>
+            <img alt="" src="/illustrations/channels/petal.svg" class="absolute h-[2.667cqw] w-[1.867cqw] select-none" style="left:70.35%;top:11.25cqw;transform:translate(-50%, -50%) rotate(66deg)"/>
+            <img alt="" src="/illustrations/channels/petal.svg" class="absolute h-[2.667cqw] w-[1.867cqw] select-none" style="left:31.775%;top:9.125cqw;transform:translate(-50%, -50%) rotate(-30deg) scaleX(-1)"/>
+            <img alt="" src="/illustrations/channels/petal.svg" class="absolute h-[2.667cqw] w-[1.867cqw] select-none" style="left:29.65%;top:11.25cqw;transform:translate(-50%, -50%) rotate(-66deg) scaleX(-1)"/>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>

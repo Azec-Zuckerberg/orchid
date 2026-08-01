@@ -1,0 +1,1183 @@
+<!-- ===== HEAD META: home ===== -->
+<meta charSet="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="next-size-adjust" content=""/>
+<meta name="theme-color" content="#f5f3ec" media="(prefers-color-scheme: light)"/>
+<meta name="theme-color" content="#0c0c0c" media="(prefers-color-scheme: dark)"/>
+<title>Orchid, your personal assistant
+<meta name="description" content="Orchid is a personal assistant that lives in your messages. It connects your tools, automates your workflows, and handles the busywork so you can focus on what matters."/>
+<meta name="application-name" content="Orchid"/>
+<link rel="manifest" href="/site.webmanifest"/>
+<meta name="robots" content="index, follow"/>
+<meta name="googlebot" content="index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"/>
+<link rel="canonical" href="https://orchid.ai"/>
+<meta property="og:title" content="Orchid, your personal assistant"/>
+<meta property="og:description" content="Orchid is a personal assistant that lives in your messages. It connects your tools, automates your workflows, and handles the busywork so you can focus on what matters."/>
+<meta property="og:url" content="https://orchid.ai"/>
+<meta property="og:image" content="https://orchid.ai/branded/cta-twilight.jpeg"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="Orchid, your personal assistant"/>
+<meta name="twitter:description" content="Orchid is a personal assistant that lives in your messages. It connects your tools, automates your workflows, and handles the busywork so you can focus on what matters."/>
+<meta name="twitter:image" content="https://orchid.ai/branded/cta-twilight.jpeg"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="icon" href="/favicon.ico?favicon.1c6otq9j0hzse.ico" sizes="1024x1024" type="image/x-icon"/>
+<link rel="icon" href="/favicon.ico" sizes="any"/>
+<link rel="icon" href="/branded/orchid-icon-3d.png" type="image/png"/>
+<link rel="apple-touch-icon" href="/branded/orchid-icon-3d.png"/>
+
+<!-- ===== BODY: home ===== -->
+<div hidden="">
+</div>
+<header class="absolute top-0 inset-x-0 z-50 flex items-center justify-between px-6 lg:px-[120px] py-5">
+  <div class="flex items-center gap-9">
+    <div class="relative inline-flex">
+      <a aria-label="Orchid home" aria-haspopup="menu" aria-expanded="false" aria-controls="_R_2nb_" class="relative inline-flex items-center rounded-md outline-none transition-opacity duration-150 hover:opacity-90 focus-visible:ring-2 focus-visible:ring-ink/30 before:absolute before:inset-x-[-6px] before:-inset-y-[6px] before:content-[&#x27;&#x27;]" href="/">
+        <span class="inline-flex items-center text-ink" aria-label="Orchid">
+          <svg width="117" height="28" viewBox="0 0 117 28" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <g clip-path="url(#clip0_242_1499)">
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M10.0469 4.36984C10.0469 8.68706 13.1977 11.5443 14.1306 12.2957C14.2834 12.4187 14.4921 12.4187 14.645 12.2957C15.5778 11.5444 18.7288 8.68731 18.7288 4.3701C18.7288 1.36715 17.3 -1.51868e-06 14.3878 0C11.4756 -1.39213e-06 10.0469 1.36688 10.0469 4.36984Z" fill="currentColor">
+              </path>
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M22.9625 7.46631C18.8837 8.8004 17.1579 12.6999 16.7364 13.8253C16.6673 14.0096 16.7318 14.2095 16.8953 14.3177C17.8934 14.9787 21.5663 17.1125 25.6451 15.7784C28.4822 14.8504 29.3323 13.0601 28.4324 10.2719C27.5324 7.48375 25.7996 6.53834 22.9625 7.46631Z" fill="currentColor">
+              </path>
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M24.028 20.7882C21.5072 17.2955 17.2897 16.8483 16.0963 16.7925C15.9008 16.7833 15.7319 16.9068 15.6801 17.0968C15.3641 18.2566 14.4832 22.4324 17.004 25.9251C18.7574 28.3545 20.7115 28.6152 23.0676 26.8921C25.4237 25.1688 25.7814 23.2177 24.028 20.7882Z" fill="currentColor">
+              </path>
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7707 25.9253C14.2915 22.4326 13.4107 18.2567 13.0947 17.0969C13.0429 16.9068 12.8741 16.7833 12.6785 16.7925C11.4852 16.8483 7.2678 17.2953 4.74698 20.788C2.99356 23.2174 3.35116 25.1688 5.70723 26.8921C8.06329 28.6152 10.0173 28.3547 11.7707 25.9253Z" fill="currentColor">
+              </path>
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M3.13025 15.7782C7.20901 17.1123 10.8821 14.9786 11.8802 14.3177C12.0438 14.2094 12.1082 14.0096 12.0392 13.8252C11.6177 12.6999 9.89214 8.80041 5.81336 7.46631C2.97627 6.53835 1.24313 7.48372 0.343193 10.2719C-0.556745 13.06 0.293156 14.8503 3.13025 15.7782Z" fill="currentColor">
+              </path>
+              <path d="M45.9465 5.6377C47.6933 5.6377 49.2177 5.99439 50.5197 6.70776C51.8382 7.42114 52.8599 8.44972 53.5851 9.79349C54.3102 11.1207 54.6727 12.7383 54.6727 14.6462C54.6727 16.5042 54.302 18.1301 53.5603 19.5236C52.8187 20.9172 51.7804 22.0039 50.4455 22.7836C49.1272 23.5633 47.6192 23.9532 45.9217 23.9532C44.1747 23.9532 42.6421 23.5964 41.3237 22.8831C40.0217 22.1698 39.0081 21.1412 38.283 19.7974C37.5579 18.4535 37.1953 16.836 37.1953 14.9447C37.1953 13.0866 37.5661 11.4608 38.3078 10.0673C39.0659 8.67369 40.0959 7.58704 41.3979 6.8073C42.7162 6.02757 44.2324 5.6377 45.9465 5.6377ZM45.8476 6.08563C44.9246 6.08563 44.1171 6.45891 43.4249 7.20546C42.7492 7.95202 42.2218 8.98062 41.8428 10.2912C41.4802 11.6019 41.299 13.1198 41.299 14.8452C41.299 16.6038 41.505 18.1384 41.917 19.4489C42.3455 20.743 42.9141 21.7467 43.6227 22.4601C44.3478 23.1568 45.1471 23.5053 46.0206 23.5053C46.9435 23.5053 47.7427 23.132 48.4185 22.3854C49.1106 21.6389 49.638 20.6102 50.0006 19.2997C50.3796 17.9725 50.5692 16.4544 50.5692 14.7456C50.5692 12.9705 50.3549 11.436 49.9264 10.1419C49.5144 8.84788 48.9459 7.85248 48.2207 7.1557C47.5121 6.44232 46.721 6.08563 45.8476 6.08563Z" fill="currentColor">
+              </path>
+              <path d="M64.832 10.3906C65.3594 10.3906 65.7878 10.5067 66.1175 10.7391C66.4471 10.9547 66.686 11.2368 66.8343 11.5851C66.9991 11.9335 67.0815 12.2985 67.0815 12.6801C67.0815 13.2939 66.9002 13.7999 66.5377 14.198C66.1916 14.5796 65.7302 14.7704 65.1533 14.7704C64.5765 14.7704 64.1233 14.6294 63.7937 14.3474C63.4806 14.0487 63.324 13.6588 63.324 13.1778C63.324 12.7132 63.4229 12.3316 63.6206 12.033C63.8349 11.7178 64.0986 11.4524 64.4117 11.2368C64.181 11.1703 63.9503 11.1787 63.7195 11.2616C63.4064 11.3114 63.1097 11.4441 62.8296 11.6597C62.5495 11.8589 62.3104 12.116 62.1127 12.4312C61.9149 12.7299 61.7584 13.0617 61.643 13.4266C61.5276 13.775 61.47 14.1151 61.47 14.4469V21.0415C61.47 21.8378 61.6595 22.377 62.0385 22.659C62.434 22.941 63.0191 23.0821 63.7937 23.0821V23.6046C63.4147 23.5881 62.8625 23.5715 62.1374 23.5548C61.4123 23.5217 60.6542 23.5051 59.8631 23.5051C59.2039 23.5051 58.5365 23.5217 57.8608 23.5548C57.1851 23.5715 56.6742 23.5881 56.3281 23.6046V23.0821C56.9049 23.0821 57.3087 22.9576 57.5394 22.7088C57.7866 22.4599 57.9102 21.9871 57.9102 21.2903V13.4515C57.9102 12.7049 57.7948 12.1574 57.5642 11.8091C57.3499 11.4441 56.9378 11.2616 56.3281 11.2616V10.7391C56.8555 10.7888 57.3663 10.8137 57.8608 10.8137C58.5529 10.8137 59.1957 10.7888 59.7889 10.7391C60.3987 10.6726 60.9591 10.5814 61.47 10.4653V12.7796C61.6677 12.3316 61.9315 11.9252 62.261 11.5602C62.5906 11.1953 62.9696 10.9132 63.3981 10.7141C63.8267 10.4984 64.3046 10.3906 64.832 10.3906Z" fill="currentColor">
+              </path>
+              <path d="M73.9569 10.3906C74.5996 10.3906 75.1847 10.4653 75.712 10.6146C76.2559 10.7473 76.7009 10.9215 77.0469 11.1372C77.4754 11.4026 77.805 11.7345 78.0358 12.1326C78.2829 12.5142 78.4066 12.9621 78.4066 13.4764C78.4066 14.0571 78.2253 14.5381 77.8627 14.9197C77.5002 15.2847 77.0305 15.4672 76.4537 15.4672C75.8769 15.4672 75.4154 15.3013 75.0693 14.9695C74.7232 14.6377 74.5502 14.1898 74.5502 13.6257C74.5502 13.0948 74.715 12.6552 75.0446 12.3068C75.3742 11.9418 75.7532 11.7012 76.1817 11.5851C76.0499 11.4192 75.8521 11.2782 75.5885 11.162C75.3247 11.0459 75.0281 10.9879 74.6985 10.9879C74.1876 10.9879 73.7343 11.1372 73.3388 11.4358C72.9598 11.7344 72.6384 12.1492 72.3748 12.6801C72.111 13.2109 71.9051 13.8331 71.7568 14.5464C71.6249 15.2598 71.559 16.0395 71.559 16.8857C71.559 18.1631 71.7155 19.1668 72.0287 19.8967C72.3582 20.6267 72.7703 21.1411 73.2647 21.4396C73.7756 21.7382 74.3029 21.8876 74.8468 21.8876C75.16 21.8876 75.4978 21.8378 75.8603 21.7382C76.2394 21.6388 76.6184 21.4396 76.9975 21.1411C77.3931 20.8424 77.7556 20.4194 78.0852 19.8719L78.5055 20.0211C78.3242 20.635 78.0275 21.2488 77.6155 21.8627C77.2036 22.4765 76.6679 22.9825 76.0086 23.3807C75.3495 23.7622 74.542 23.953 73.586 23.953C72.5149 23.953 71.5425 23.7207 70.669 23.2563C69.8121 22.7751 69.1199 22.0452 68.5925 21.0663C68.0816 20.0709 67.8262 18.7935 67.8262 17.234C67.8262 15.7409 68.0899 14.4883 68.6173 13.4764C69.1611 12.4478 69.8945 11.6764 70.8174 11.162C71.7402 10.6478 72.7868 10.3906 73.9569 10.3906Z" fill="currentColor">
+              </path>
+              <path d="M84.8118 4.14453V12.705C85.2238 11.8423 85.7759 11.2451 86.4681 10.9133C87.1767 10.5649 87.968 10.3907 88.8412 10.3907C89.55 10.3907 90.1187 10.482 90.5466 10.6644C90.9754 10.8303 91.3131 11.0626 91.5607 11.3613C91.8407 11.6764 92.0385 12.0829 92.154 12.5806C92.2852 13.0783 92.3517 13.7502 92.3517 14.5963V21.2904C92.3517 21.9872 92.4672 22.46 92.6974 22.7089C92.945 22.9577 93.3571 23.0821 93.9337 23.0821V23.6047C93.6205 23.5882 93.1427 23.5715 92.4996 23.5549C91.874 23.5217 91.2641 23.5052 90.6709 23.5052C90.0277 23.5052 89.4012 23.5217 88.7922 23.5549C88.1981 23.5715 87.7536 23.5882 87.4569 23.6047V23.0821C87.9514 23.0821 88.297 22.9577 88.4947 22.7089C88.6934 22.46 88.7922 21.9872 88.7922 21.2904V13.5511C88.7922 13.1364 88.7502 12.7797 88.668 12.4811C88.5857 12.1658 88.4291 11.9253 88.1981 11.7594C87.9846 11.5769 87.6714 11.4857 87.2591 11.4857C86.8142 11.4857 86.4022 11.6101 86.0231 11.859C85.6605 12.0912 85.3639 12.423 85.1332 12.8544C84.919 13.2856 84.8118 13.7833 84.8118 14.3475V21.2904C84.8118 21.9872 84.9106 22.46 85.1085 22.7089C85.3062 22.9577 85.6523 23.0821 86.1467 23.0821V23.6047C85.85 23.5882 85.4133 23.5715 84.8365 23.5549C84.2597 23.5217 83.6746 23.5052 83.0814 23.5052C82.4386 23.5052 81.7877 23.5217 81.1285 23.5549C80.4857 23.5715 79.9995 23.5882 79.6699 23.6047V23.0821C80.2467 23.0821 80.6505 22.9577 80.8813 22.7089C81.1285 22.46 81.252 21.9872 81.252 21.2904V7.13075C81.252 6.3842 81.1367 5.83673 80.9059 5.48833C80.6917 5.12335 80.2797 4.94086 79.6699 4.94086V4.41827C80.1973 4.46804 80.7082 4.49293 81.2026 4.49293C81.8783 4.49293 82.521 4.46804 83.1308 4.41827C83.7406 4.35192 84.301 4.26067 84.8118 4.14453Z" fill="currentColor">
+              </path>
+              <path d="M98.0459 4.31934C98.738 4.31934 99.2823 4.49353 99.6778 4.84192C100.09 5.17372 100.296 5.63825 100.296 6.23549C100.296 6.83273 100.09 7.30555 99.6778 7.65394C99.2823 7.98574 98.738 8.15164 98.0459 8.15164C97.3538 8.15164 96.8017 7.98574 96.3895 7.65394C95.994 7.30555 95.7963 6.83273 95.7963 6.23549C95.7963 5.63825 95.994 5.17372 96.3895 4.84192C96.8017 4.49353 97.3538 4.31934 98.0459 4.31934ZM99.9744 10.4659V21.291C99.9744 21.9878 100.09 22.4606 100.32 22.7095C100.568 22.9583 100.98 23.0827 101.556 23.0827V23.6053C101.26 23.5888 100.798 23.5721 100.172 23.5555C99.5457 23.5223 98.9113 23.5058 98.2682 23.5058C97.6259 23.5058 96.9749 23.5223 96.3152 23.5555C95.6563 23.5721 95.1619 23.5888 94.832 23.6053V23.0827C95.4087 23.0827 95.8129 22.9583 96.0439 22.7095C96.2907 22.4606 96.414 21.9878 96.414 21.291V13.4521C96.414 12.7056 96.2994 12.1581 96.0684 11.8098C95.854 11.4448 95.4419 11.2623 94.832 11.2623V10.7397C95.3597 10.7894 95.8707 10.8144 96.365 10.8144C97.0572 10.8144 97.7003 10.7894 98.2935 10.7397C98.9025 10.6733 99.4634 10.5821 99.9744 10.4659Z" fill="currentColor">
+              </path>
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M111.234 20.6963C111.157 21.3192 110.926 21.8244 110.541 22.2116C110.096 22.6596 109.594 22.8836 109.033 22.8836C108.572 22.8836 108.16 22.701 107.798 22.3361C107.451 21.9711 107.179 21.3738 106.981 20.5443C106.8 19.6982 106.709 18.5701 106.709 17.1599C106.694 15.1028 106.932 13.5848 107.427 12.606C107.921 11.6106 108.589 11.1129 109.429 11.1129C109.824 11.1129 110.195 11.2041 110.541 11.3866C110.814 11.5114 111.045 11.7018 111.234 11.958V20.6963ZM111.234 23.854V21.7196C110.985 22.3799 110.63 22.9006 110.171 23.2817C109.627 23.7296 108.91 23.9536 108.02 23.9536C107.048 23.9536 106.174 23.7131 105.399 23.2319C104.642 22.7508 104.048 22.0126 103.62 21.0172C103.191 20.0052 102.977 18.7028 102.977 17.1101C102.977 15.6005 103.215 14.3562 103.694 13.3774C104.172 12.382 104.823 11.6354 105.647 11.1377C106.487 10.64 107.435 10.3912 108.49 10.3912C109.214 10.3912 109.849 10.5156 110.393 10.7645C110.713 10.8974 110.994 11.0846 111.234 11.3261V7.10634C111.234 6.35979 111.118 5.81231 110.887 5.46392C110.673 5.09894 110.261 4.91645 109.651 4.91645V4.39386C110.179 4.44363 110.69 4.46852 111.184 4.46852C111.86 4.46852 112.503 4.44363 113.113 4.39386C113.722 4.3275 114.282 4.23626 114.793 4.12012V20.8678C114.793 21.6144 114.909 22.1702 115.139 22.5351C115.37 22.8836 115.782 23.0577 116.375 23.0577V23.5803C115.864 23.5305 115.353 23.5057 114.842 23.5057C114.15 23.5057 113.499 23.5305 112.889 23.5803C112.296 23.6301 111.744 23.7213 111.234 23.854Z" fill="currentColor">
+              </path>
+            </g>
+            <defs>
+              <clipPath id="clip0_242_1499">
+                <rect width="116.375" height="28" fill="white">
+                </rect>
+              </clipPath>
+            </defs>
+          </svg>
+        </span>
+      </a>
+    </div>
+    <nav class="hidden md:flex items-center">
+      <a target="_blank" rel="noopener noreferrer" class="inline-flex items-center rounded-lg px-4 py-2 text-sm leading-none text-ink/80 transition-colors hover:bg-ink/[0.05] hover:text-ink" href="https://form.typeform.com/to/KBRPorqf?t">
+        Enterprise
+      </a>
+      <a class="inline-flex items-center rounded-lg px-4 py-2 text-sm leading-none text-ink/80 transition-colors hover:bg-ink/[0.05] hover:text-ink" href="/blog">
+        Blog
+      </a>
+      <a class="inline-flex items-center rounded-lg px-4 py-2 text-sm leading-none text-ink/80 transition-colors hover:bg-ink/[0.05] hover:text-ink" href="/case-studies">
+        Case Studies
+      </a>
+      <a class="inline-flex items-center rounded-lg px-4 py-2 text-sm leading-none text-ink/80 transition-colors hover:bg-ink/[0.05] hover:text-ink" href="/contact">
+        Contact Us
+      </a>
+    </nav>
+  </div>
+  <div class="flex items-center gap-3">
+    <a class="relative hidden md:inline-flex items-center justify-center rounded-full bg-paper/60 px-2.5 py-2 text-sm font-medium leading-none text-ink ring-1 ring-ink/10 backdrop-blur-md transition-[opacity,scale,background-color] duration-150 hover:bg-paper/80 motion-safe:active:scale-[0.96] before:absolute before:inset-x-0 before:-inset-y-[5px] before:content-[&#x27;&#x27;]" href="https://app.orchid.ai?source=site&amp;utm_source=site&amp;utm_campaign=login">
+      Login
+    </a>
+    <a class="relative hidden md:inline-flex cursor-pointer items-center justify-center rounded-full bg-ink px-2.5 py-2 text-sm font-medium leading-none text-paper transition-[opacity,scale] duration-150 hover:opacity-90 motion-safe:active:scale-[0.96] before:absolute before:inset-x-0 before:-inset-y-[5px] before:content-[&#x27;&#x27;]" href="sms:+14152999916">
+      Get Started
+    </a>
+    <div class="relative inline-flex md:hidden">
+      <button type="button" aria-expanded="false" aria-controls="_R_77b_" aria-label="Open menu" class="relative inline-flex size-8 touch-manipulation items-center justify-center rounded-full bg-paper/60 text-ink outline-none ring-1 ring-ink/10 backdrop-blur-md transition-[background-color,scale] duration-150 hover:bg-paper/80 focus-visible:ring-2 focus-visible:ring-ink/30 motion-safe:active:scale-[0.96] before:absolute before:-inset-2 before:content-[&#x27;&#x27;]">
+        <span class="inline-flex" style="opacity:1;transform:none">
+          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-menu" aria-hidden="true">
+            <path d="M4 5h16">
+            </path>
+            <path d="M4 12h16">
+            </path>
+            <path d="M4 19h16">
+            </path>
+          </svg>
+        </span>
+      </button>
+    </div>
+  </div>
+</header>
+<main class="flex-1">
+  <section class="relative isolate overflow-hidden bg-paper">
+    <div class="flex flex-col items-center gap-7 px-6 pt-28 text-center md:gap-8 md:px-[120px] md:pt-36">
+      <h1 class="hero-reveal max-w-[min(92vw,738px)] text-balance font-serif text-[clamp(40px,7vw,64px)] font-medium leading-[1.05] tracking-[-0.04em] text-ink">
+        <span class="sr-only">
+          Meet Orchid, your personal assistant.
+        </span>
+        <span aria-hidden="true" class="block">
+          Meet Orchid, your
+          <span class="flex justify-center">
+            <span class="inline-flex items-baseline whitespace-nowrap will-change-[transform,opacity,filter]">
+              <span class="italic">
+                personal assistant
+              </span>
+              <span aria-hidden="true">
+                .
+              </span>
+            </span>
+          </span>
+        </span>
+      </h1>
+      <p class="hero-reveal max-w-[min(92vw,520px)] text-balance text-base leading-[1.5] text-ink/75 text-pretty">
+        Orchid is a personal assistant that helps you stay organized, find information, and get things done. All through messages.
+      </p>
+      <div class="hero-reveal">
+        <a class="relative inline-flex cursor-pointer items-center gap-2 rounded-full bg-card px-4 py-2.5 text-sm font-medium leading-none text-ink ring-1 ring-ink/10 shadow-[0_2px_8px_rgba(8,21,46,0.06)] transition-[transform,box-shadow] duration-150 hover:shadow-[0_4px_16px_rgba(8,21,46,0.10)] motion-safe:active:scale-[0.97] before:absolute before:inset-x-0 before:-inset-y-[5px] before:content-[&#x27;&#x27;]" href="sms:+14152999916">
+          <img alt="" aria-hidden="true" width="20" height="20" decoding="async" data-nimg="1" class="size-5 select-none" style="color:transparent" srcSet="/_next/image?url=%2Fbranded%2Fimessage-icon.png&amp;w=32&amp;q=75 1x, /_next/image?url=%2Fbranded%2Fimessage-icon.png&amp;w=48&amp;q=75 2x" src="/_next/image?url=%2Fbranded%2Fimessage-icon.png&amp;w=48&amp;q=75"/>
+          Get Started
+        </a>
+      </div>
+    </div>
+    <div class="-mt-9 px-6 pb-12 md:mt-[calc(clamp(0px,(100vw_-_48rem)_*_0.08,3.5rem)_*_-1)] md:px-[120px] md:pb-16">
+      <div class="hero-reveal pointer-events-none relative mx-[calc((100%_-_min(200%,800px))_/_2)] aspect-[1200/1080] w-[min(200%,800px)] max-w-[1200px] [container-type:inline-size] md:mx-auto md:w-full">
+        <div class="absolute inset-0">
+          <div class="absolute left-1/2 top-[10.75cqw] w-[37.5%] -translate-x-1/2">
+            <div class="relative aspect-[450/920] w-full will-change-transform">
+              <div class="absolute inset-x-[5.33%] inset-y-[2.5%] [container-type:inline-size]">
+                <div class="absolute inset-0 overflow-hidden rounded-[16cqw]">
+                  <div data-glass-content="true" class="absolute inset-0">
+                    <div class="absolute inset-x-0 top-0 z-10 flex items-center justify-between px-[12cqw] pt-[6.2cqw] pb-[4.7cqw] text-[var(--ios-text-primary)]" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                      <span class="font-[590] text-[4.23cqw] leading-none">
+                        9:41
+                      </span>
+                      <div class="flex items-center gap-[1.74cqw] text-[var(--ios-text-primary)]">
+                        <svg aria-hidden="true" viewBox="0 0 16 12" class="h-[3.07cqw] w-auto" fill="currentColor">
+                          <path d="M8 1 C4 1 1.4 2.6 0 4.2 L1.6 5.8 C2.6 4.5 4.7 3.4 8 3.4 C11.3 3.4 13.4 4.5 14.4 5.8 L16 4.2 C14.6 2.6 12 1 8 1 Z">
+                          </path>
+                          <path d="M8 5 C5.6 5 3.8 6 2.8 7 L4.4 8.6 C5 7.9 6.3 7.2 8 7.2 C9.7 7.2 11 7.9 11.6 8.6 L13.2 7 C12.2 6 10.4 5 8 5 Z">
+                          </path>
+                          <circle cx="8" cy="10.4" r="1.4">
+                          </circle>
+                        </svg>
+                        <svg aria-hidden="true" viewBox="0 0 26 12" class="h-[3.23cqw] w-auto" fill="none">
+                          <rect x="0.5" y="0.5" width="22" height="11" rx="2.4" stroke="currentColor" stroke-opacity="0.4">
+                          </rect>
+                          <rect x="2" y="2" width="19" height="8" rx="1.4" fill="currentColor">
+                          </rect>
+                          <rect x="23.4" y="4" width="1.6" height="4" rx="0.6" fill="currentColor" fill-opacity="0.4">
+                          </rect>
+                        </svg>
+                      </div>
+                    </div>
+                    <div class="absolute inset-x-0 top-[9%] z-10 h-[9.95%] px-[3.98cqw]" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                      <div class="relative flex h-full items-start justify-between">
+                        <div class="relative inline-flex items-center justify-center rounded-full bg-[var(--ios-glass)] backdrop-blur-[5cqw] shadow-[0_0_0_0.12cqw_rgba(0,0,0,0.04),0_0.5cqw_1.5cqw_-0.25cqw_rgba(0,0,0,0.05)] h-[10.95cqw] gap-[1cqw] px-[2cqw] text-[var(--ios-toolbar-icon)]">
+                          <svg width="4.23cqw" height="4.23cqw" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="text-[var(--ios-toolbar-icon)]">
+                            <path d="M15 6l-6 6 6 6">
+                            </path>
+                          </svg>
+                          <span class="grid size-[5.22cqw] place-items-center rounded-full bg-[var(--ios-text-primary)] text-[2.99cqw] font-[590] text-[var(--ios-bg)]">
+                            2
+                          </span>
+                        </div>
+                        <div class="absolute left-1/2 top-0 size-[14.93cqw] -translate-x-1/2">
+                          <span class="absolute inset-0 overflow-hidden rounded-full shadow-[0_0.6cqw_0.5cqw_rgba(0,0,0,0.1)]">
+                            <img alt="" aria-hidden="true" src="/illustrations/channels/orchid-icon.png" class="h-full w-full object-cover select-none"/>
+                          </span>
+                          <div class="absolute left-1/2 top-[91.67%] flex h-[7.96cqw] -translate-x-1/2 items-center gap-[1cqw] rounded-full bg-[var(--ios-glass)] pl-[3.48cqw] pr-[1.74cqw] backdrop-blur-[5cqw] shadow-[0_0_0_0.12cqw_rgba(0,0,0,0.04),0_0.5cqw_1.5cqw_-0.25cqw_rgba(0,0,0,0.05)]">
+                            <span class="font-bold leading-none text-[4.23cqw] text-[var(--ios-text-primary)] whitespace-nowrap" style="font-variation-settings:&#x27;wdth&#x27; 100">
+                              Orchid
+                            </span>
+                            <span class="text-[4.23cqw] leading-none text-[var(--ios-text-secondary)]">
+                              ›
+                            </span>
+                          </div>
+                        </div>
+                        <div class="relative inline-flex items-center justify-center rounded-full bg-[var(--ios-glass)] backdrop-blur-[5cqw] shadow-[0_0_0_0.12cqw_rgba(0,0,0,0.04),0_0.5cqw_1.5cqw_-0.25cqw_rgba(0,0,0,0.05)] size-[10.95cqw] text-[var(--ios-toolbar-icon)]">
+                          <svg width="4.98cqw" height="4.98cqw" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                            <path d="M3.4 6.6c-1 0-1.7.7-1.7 1.7v7.4c0 1 .7 1.7 1.7 1.7h9.4c1 0 1.7-.7 1.7-1.7v-1.4l4.3 2.7c.7.4 1.5-.1 1.5-.9V7.9c0-.8-.8-1.3-1.5-.9l-4.3 2.7V8.3c0-1-.7-1.7-1.7-1.7H3.4z">
+                            </path>
+                          </svg>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="absolute inset-x-0 top-[7%] bottom-[0.92%] z-0 overflow-hidden" style="-webkit-mask-image:linear-gradient(to bottom, transparent 0%, black 25%, black 100%);mask-image:linear-gradient(to bottom, transparent 0%, black 25%, black 100%);-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-size:100% 100%;mask-size:100% 100%">
+                      <div class="absolute inset-x-0 flex items-center justify-center gap-[1cqw] py-[1cqw] text-[2.74cqw] leading-none text-[var(--ios-text-secondary)]" style="top:16%;font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                        <span class="font-[510]">
+                          Today
+                        </span>
+                        <span>
+                          8:05 AM
+                        </span>
+                      </div>
+                      <div class="absolute inset-x-0 top-[19%] bottom-[8.58cqw] px-[3.98cqw]" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                        <div class="flex flex-col gap-[1cqw] will-change-transform">
+                          <div class="flex w-full transition-[margin,padding] duration-300 ease-out justify-end pb-0">
+                            <div class="relative max-w-[69.65cqw] rounded-[4.98cqw] px-[2.99cqw] py-[2.24cqw] bg-[#0088ff] text-white" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                              <p class="whitespace-pre-wrap leading-[1.295] tracking-[-0.005em] text-[4.23cqw]">
+                                ok i need aruba. like soon 🏝️
+                              </p>
+                              <span aria-hidden="true" class="pointer-events-none absolute -bottom-[1.73cqw] h-[4.46cqw] w-[4.23cqw] transition-opacity duration-300 ease-out opacity-0 right-[1.75cqw] origin-bottom-right">
+                                <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full text-[#0088ff]" fill="currentColor" preserveAspectRatio="none">
+                                  <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                                  </path>
+                                </svg>
+                              </span>
+                            </div>
+                          </div>
+                          <div class="flex w-full transition-[margin,padding] duration-300 ease-out justify-start pb-0">
+                            <div class="relative max-w-[69.65cqw] rounded-[4.98cqw] px-[2.99cqw] py-[2.24cqw] bg-[var(--ios-bubble-received)] text-[var(--ios-text-primary)]" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                              <p class="whitespace-pre-wrap leading-[1.295] tracking-[-0.005em] text-[4.23cqw]">
+                                say less. found a villa in palm beach. private pool, 3 min from the sand.
+                              </p>
+                              <span aria-hidden="true" class="pointer-events-none absolute -bottom-[1.73cqw] h-[4.46cqw] w-[4.23cqw] transition-opacity duration-300 ease-out opacity-0 left-[1.75cqw] origin-bottom-left">
+                                <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full -scale-x-100 text-[var(--ios-bubble-received)]" fill="currentColor" preserveAspectRatio="none">
+                                  <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                                  </path>
+                                </svg>
+                              </span>
+                            </div>
+                          </div>
+                          <div class="flex w-full transition-[margin,padding] duration-300 ease-out mb-[3cqw] justify-start pb-0">
+                            <div class="relative aspect-[4/5] w-[54cqw]">
+                              <img src="/branded/aruba.webp" alt="" aria-hidden="true" draggable="false" class="absolute inset-0 h-full w-full select-none rounded-[4.98cqw] object-cover shadow-[0_0.5cqw_2cqw_rgba(8,21,46,0.28)]" style="z-index:3;transform-origin:center center;transform:translate(0cqw, 0cqw) rotate(0deg)"/>
+                              <img src="/branded/aruba_party.webp" alt="" aria-hidden="true" draggable="false" class="absolute inset-0 h-full w-full select-none rounded-[4.98cqw] object-cover shadow-[0_0.5cqw_2cqw_rgba(8,21,46,0.28)]" style="z-index:2;transform-origin:center center;transform:translate(8.5cqw, 0.8cqw) rotate(2deg)"/>
+                              <img src="/branded/beach.jpeg" alt="" aria-hidden="true" draggable="false" class="absolute inset-0 h-full w-full select-none rounded-[4.98cqw] object-cover shadow-[0_0.5cqw_2cqw_rgba(8,21,46,0.28)]" style="z-index:1;transform-origin:center center;transform:translate(17cqw, 1.6cqw) rotate(4deg)"/>
+                            </div>
+                          </div>
+                          <div class="flex w-full transition-[margin,padding] duration-300 ease-out justify-start pb-0">
+                            <div class="relative max-w-[69.65cqw] rounded-[4.98cqw] px-[2.99cqw] py-[2.24cqw] bg-[var(--ios-bubble-received)] text-[var(--ios-text-primary)]" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                              <p class="whitespace-pre-wrap leading-[1.295] tracking-[-0.005em] text-[4.23cqw]">
+                                $240/night, free cancellation. flights are $380 round trip, thursday to tuesday.
+                              </p>
+                              <span aria-hidden="true" class="pointer-events-none absolute -bottom-[1.73cqw] h-[4.46cqw] w-[4.23cqw] transition-opacity duration-300 ease-out opacity-0 left-[1.75cqw] origin-bottom-left">
+                                <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full -scale-x-100 text-[var(--ios-bubble-received)]" fill="currentColor" preserveAspectRatio="none">
+                                  <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                                  </path>
+                                </svg>
+                              </span>
+                            </div>
+                          </div>
+                          <div class="flex w-full transition-[margin,padding] duration-300 ease-out justify-start pb-0">
+                            <div class="relative max-w-[69.65cqw] rounded-[4.98cqw] px-[2.99cqw] py-[2.24cqw] bg-[var(--ios-bubble-received)] text-[var(--ios-text-primary)]" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                              <p class="whitespace-pre-wrap leading-[1.295] tracking-[-0.005em] text-[4.23cqw]">
+                                tap here to pay and you&#x27;re locked in 💵
+                                <span class="underline underline-offset-2 text-[#0a84ff]">
+                                  expedia.com/pay/5723190d
+                                </span>
+                              </p>
+                              <span aria-hidden="true" class="pointer-events-none absolute -bottom-[1.73cqw] h-[4.46cqw] w-[4.23cqw] transition-opacity duration-300 ease-out opacity-0 left-[1.75cqw] origin-bottom-left">
+                                <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full -scale-x-100 text-[var(--ios-bubble-received)]" fill="currentColor" preserveAspectRatio="none">
+                                  <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                                  </path>
+                                </svg>
+                              </span>
+                            </div>
+                          </div>
+                          <div class="flex w-full transition-[margin,padding] duration-300 ease-out justify-end pb-[1.49cqw] mt-[7.5cqw]">
+                            <div class="relative max-w-[69.65cqw] rounded-[4.98cqw] px-[2.99cqw] py-[2.24cqw] bg-[#0088ff] text-white" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                              <p class="whitespace-pre-wrap leading-[1.295] tracking-[-0.005em] text-[4.23cqw]">
+                                done ✅
+                              </p>
+                              <span aria-hidden="true" class="pointer-events-none absolute -bottom-[1.73cqw] h-[4.46cqw] w-[4.23cqw] transition-opacity duration-300 ease-out opacity-100 right-[1.75cqw] origin-bottom-right">
+                                <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full text-[#0088ff]" fill="currentColor" preserveAspectRatio="none">
+                                  <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                                  </path>
+                                </svg>
+                              </span>
+                              <span aria-hidden="true" data-tapback="true" class="pointer-events-none absolute z-10 grid size-[8.96cqw] place-items-center rounded-full bg-[#08f] shadow-[0_0.5cqw_1.5cqw_-0.25cqw_rgba(0,0,0,0.22)] -top-[6.97cqw] -left-[3.74cqw]">
+                                <span class="text-[4.23cqw] leading-none">
+                                  🔥
+                                </span>
+                              </span>
+                              <span aria-hidden="true" data-tapback="true" class="pointer-events-none absolute z-10 size-[2.99cqw] rounded-full bg-[#08f] shadow-[0_0.25cqw_0.6cqw_rgba(0,0,0,0.18)] -top-[0.25cqw] -left-[3.74cqw]">
+                              </span>
+                              <span aria-hidden="true" data-tapback="true" class="pointer-events-none absolute z-10 size-[1.49cqw] rounded-full bg-[#08f] shadow-[0_0.18cqw_0.45cqw_rgba(0,0,0,0.15)] top-[2.74cqw] -left-[4.48cqw]">
+                              </span>
+                            </div>
+                          </div>
+                          <div class="flex w-full transition-[margin,padding] duration-300 ease-out justify-start pb-[1.49cqw]">
+                            <div class="relative max-w-[69.65cqw] rounded-[4.98cqw] px-[2.99cqw] py-[2.24cqw] bg-[var(--ios-bubble-received)] text-[var(--ios-text-primary)]" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                              <p class="whitespace-pre-wrap leading-[1.295] tracking-[-0.005em] text-[4.23cqw]">
+                                🙌 it&#x27;s on your calendar. made you an itinerary too. sunset catamaran thursday + that ceviche spot you saved 🌅
+                              </p>
+                              <span aria-hidden="true" class="pointer-events-none absolute -bottom-[1.73cqw] h-[4.46cqw] w-[4.23cqw] transition-opacity duration-300 ease-out opacity-100 left-[1.75cqw] origin-bottom-left">
+                                <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full -scale-x-100 text-[var(--ios-bubble-received)]" fill="currentColor" preserveAspectRatio="none">
+                                  <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                                  </path>
+                                </svg>
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="absolute inset-x-0 bottom-0 z-10 flex items-center gap-[2.99cqw] px-[6.97cqw] pt-[1cqw] pb-[6.97cqw]" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                      <div class="relative inline-flex items-center justify-center rounded-full bg-[var(--ios-glass)] backdrop-blur-[5cqw] shadow-[0_0_0_0.12cqw_rgba(0,0,0,0.04),0_0.5cqw_1.5cqw_-0.25cqw_rgba(0,0,0,0.05)] size-[9.95cqw] text-[var(--ios-toolbar-icon)]">
+                        <svg width="4.98cqw" height="4.98cqw" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                          <path d="M12 5v14M5 12h14">
+                          </path>
+                        </svg>
+                      </div>
+                      <div class="relative inline-flex items-center rounded-full bg-[var(--ios-glass)] backdrop-blur-[5cqw] shadow-[0_0_0_0.12cqw_rgba(0,0,0,0.04),0_0.5cqw_1.5cqw_-0.25cqw_rgba(0,0,0,0.05)] h-[9.95cqw] flex-1 justify-between gap-[1.99cqw] pl-[4.48cqw] pr-[2.49cqw]">
+                        <span class="text-[4.23cqw] font-[510] leading-none text-[var(--ios-placeholder-text)]">
+                          iMessage
+                        </span>
+                        <span class="grid size-[5.47cqw] place-items-center rounded-full bg-[var(--ios-overlay)] text-[var(--ios-toolbar-icon)]">
+                          <svg width="3cqw" height="3cqw" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                            <path d="M12 19V5M6 11l6-6 6 6">
+                            </path>
+                          </svg>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <img aria-hidden="true" alt="" src="/illustrations/channels/iphone-17-pro-silver.png" class="pointer-events-none absolute inset-0 z-10 h-full w-full select-none"/>
+            </div>
+          </div>
+          <div aria-hidden="true" class="pointer-events-none absolute inset-0">
+            <img alt="" src="/illustrations/channels/petal.svg" class="absolute h-[2.667cqw] w-[1.867cqw] select-none" style="left:68.225%;top:9.125cqw;transform:translate(-50%, -50%) rotate(30deg)"/>
+            <img alt="" src="/illustrations/channels/petal.svg" class="absolute h-[2.667cqw] w-[1.867cqw] select-none" style="left:70.35%;top:11.25cqw;transform:translate(-50%, -50%) rotate(66deg)"/>
+            <img alt="" src="/illustrations/channels/petal.svg" class="absolute h-[2.667cqw] w-[1.867cqw] select-none" style="left:31.775%;top:9.125cqw;transform:translate(-50%, -50%) rotate(-30deg) scaleX(-1)"/>
+            <img alt="" src="/illustrations/channels/petal.svg" class="absolute h-[2.667cqw] w-[1.867cqw] select-none" style="left:29.65%;top:11.25cqw;transform:translate(-50%, -50%) rotate(-66deg) scaleX(-1)"/>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section aria-label="What people say about Orchid" class="relative flex min-h-[90vh] flex-col items-center justify-center overflow-hidden bg-paper px-6 py-24">
+    <div class="relative z-10 flex flex-col items-center">
+      <div class="relative mb-9 size-[clamp(74px,8vw,96px)] overflow-hidden rounded-[22px] bg-white shadow-[0_20px_55px_-14px_rgba(8,21,46,0.4)]">
+        <img alt="Maha" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="96px" srcSet="/_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=32&amp;q=75 32w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=48&amp;q=75 48w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=64&amp;q=75 64w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=96&amp;q=75 96w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=128&amp;q=75 128w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=256&amp;q=75 256w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=384&amp;q=75 384w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Ftestimonials%2Fmaha.png&amp;w=3840&amp;q=75"/>
+      </div>
+      <div class="flex min-h-[280px] w-full max-w-[940px] items-center justify-center md:min-h-[200px]">
+        <blockquote aria-live="polite" class="text-balance text-center font-serif font-normal tracking-[-0.02em] text-ink text-[clamp(26px,3.8vw,44px)]">
+          “Orchid checks in on me every morning and hypes me up before big days. Vitamins, workouts, my mom’s birthday. It never drops the ball, so I don’t either.”
+        </blockquote>
+      </div>
+      <cite class="mt-7 block text-center text-sm font-medium not-italic tracking-wide text-ink/55">
+        – Maha
+      </cite>
+    </div>
+  </section>
+  <section aria-label="What Orchid handles for you" class="bg-paper px-6 py-32 md:px-12 md:py-44 min-[1280px]:px-[120px] min-[1280px]:py-56">
+    <div class="mx-auto flex max-w-[1200px] flex-col gap-16 md:gap-20 min-[1280px]:gap-[80px]">
+      <div data-anim="row" class="flex flex-col gap-10 min-[1024px]:items-center min-[1024px]:gap-[64px] min-[1024px]:flex-row">
+        <div class="flex flex-1 flex-col items-start gap-8 py-4 min-[1024px]:min-w-px">
+          <div class="flex w-full flex-col items-start gap-[12px]">
+            <h3 class="font-serif text-[28px] leading-[1.1] tracking-[-0.03em] text-ink">
+              Connect with your stack.
+            </h3>
+            <p class="text-[16px] leading-[1.5] text-ink/65" style="max-width:470px">
+              Orchid learns the way you work, with your tools. Not the other way around.
+            </p>
+          </div>
+          <div class="flex w-full flex-col items-start">
+            <div class="flex w-full py-3 border-b-[0.5px] border-ink/10">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-link2 lucide-link-2 size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="M9 17H7A5 5 0 0 1 7 7h2">
+                  </path>
+                  <path d="M15 7h2a5 5 0 1 1 0 10h-2">
+                  </path>
+                  <line x1="8" x2="16" y1="12" y2="12">
+                  </line>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  Connect once, it just works
+                </p>
+              </div>
+            </div>
+            <div class="flex w-full py-3 border-b-[0.5px] border-ink/10">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-blocks size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="M10 22V7a1 1 0 0 0-1-1H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-5a1 1 0 0 0-1-1H2">
+                  </path>
+                  <rect x="14" y="2" width="8" height="8" rx="1">
+                  </rect>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  Pulls from all your apps
+                </p>
+              </div>
+            </div>
+            <div class="flex w-full py-3">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-workflow size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <rect width="8" height="8" x="3" y="3" rx="2">
+                  </rect>
+                  <path d="M7 11v4a2 2 0 0 0 2 2h4">
+                  </path>
+                  <rect width="8" height="8" x="13" y="13" rx="2">
+                  </rect>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  A hundred tools, one assistant
+                </p>
+              </div>
+            </div>
+          </div>
+          <a class="relative inline-flex cursor-pointer items-center justify-center rounded-full bg-ink px-4 py-2.5 text-sm font-medium leading-none text-paper transition-[opacity,scale] duration-150 hover:opacity-90 motion-safe:active:scale-[0.97] before:absolute before:inset-x-0 before:-inset-y-[5px] before:content-[&#x27;&#x27;]" href="sms:+14152999916">
+            Get Started
+          </a>
+        </div>
+        <div class="relative aspect-[540/400] w-full overflow-hidden rounded-[24px] bg-ink/[0.04] min-[1024px]:aspect-auto min-[1024px]:h-[440px] min-[1024px]:w-[540px] min-[1024px]:shrink-0">
+          <div class="pointer-events-none absolute inset-0">
+            <img alt="" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="(min-width: 1024px) 540px, 100vw" srcSet="/_next/image?url=%2Fbranded%2Fcoffee-and-phones.jpeg&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fcoffee-and-phones.jpeg&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fcoffee-and-phones.jpeg&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fcoffee-and-phones.jpeg&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fcoffee-and-phones.jpeg&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fcoffee-and-phones.jpeg&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fcoffee-and-phones.jpeg&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fcoffee-and-phones.jpeg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fcoffee-and-phones.jpeg&amp;w=3840&amp;q=75"/>
+            <div class="absolute inset-0 bg-[rgba(8,21,46,0.4)]">
+            </div>
+          </div>
+          <div aria-hidden="true" class="absolute inset-0">
+            <div class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
+              <div class="cn-center grid size-[68px] place-items-center rounded-[18px] bg-white shadow-[0_16px_44px_rgba(0,0,0,0.4)]">
+                <div class="relative size-[50px] overflow-hidden rounded-[13px]">
+                  <img alt="" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="50px" srcSet="/_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=32&amp;q=75 32w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=48&amp;q=75 48w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=64&amp;q=75 64w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=96&amp;q=75 96w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=128&amp;q=75 128w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=256&amp;q=75 256w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=384&amp;q=75 384w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=3840&amp;q=75"/>
+                </div>
+              </div>
+            </div>
+            <div class="absolute" style="left:19%;top:26%;transform:translate(-50%, -50%)">
+              <div class="cn-float inline-flex">
+                <div class="cn-chip grid place-items-center rounded-[14px] bg-white shadow-[0_10px_26px_rgba(0,0,0,0.32)]" style="width:56px;height:56px">
+                  <img src="/logos/providers/gmail.svg" alt="" class="object-contain" style="width:30px;height:30px"/>
+                </div>
+              </div>
+            </div>
+            <div class="absolute" style="left:44%;top:14%;transform:translate(-50%, -50%)">
+              <div class="cn-float inline-flex">
+                <div class="cn-chip grid place-items-center rounded-[14px] bg-white shadow-[0_10px_26px_rgba(0,0,0,0.32)]" style="width:46px;height:46px">
+                  <img src="/logos/providers/google-calendar.png" alt="" class="object-contain" style="width:25px;height:25px"/>
+                </div>
+              </div>
+            </div>
+            <div class="absolute" style="left:72%;top:22%;transform:translate(-50%, -50%)">
+              <div class="cn-float inline-flex">
+                <div class="cn-chip grid place-items-center rounded-[14px] bg-white shadow-[0_10px_26px_rgba(0,0,0,0.32)]" style="width:52px;height:52px">
+                  <img src="/logos/providers/slack.png" alt="" class="object-contain" style="width:28px;height:28px"/>
+                </div>
+              </div>
+            </div>
+            <div class="absolute" style="left:86%;top:50%;transform:translate(-50%, -50%)">
+              <div class="cn-float inline-flex">
+                <div class="cn-chip grid place-items-center rounded-[14px] bg-white shadow-[0_10px_26px_rgba(0,0,0,0.32)]" style="width:44px;height:44px">
+                  <img src="/logos/providers/notion.png" alt="" class="object-contain" style="width:24px;height:24px"/>
+                </div>
+              </div>
+            </div>
+            <div class="absolute" style="left:66%;top:73%;transform:translate(-50%, -50%)">
+              <div class="cn-float inline-flex">
+                <div class="cn-chip grid place-items-center rounded-[14px] bg-white shadow-[0_10px_26px_rgba(0,0,0,0.32)]" style="width:54px;height:54px">
+                  <img src="/logos/providers/figma.svg" alt="" class="object-contain" style="width:29px;height:29px"/>
+                </div>
+              </div>
+            </div>
+            <div class="absolute" style="left:37%;top:80%;transform:translate(-50%, -50%)">
+              <div class="cn-float inline-flex">
+                <div class="cn-chip grid place-items-center rounded-[14px] bg-white shadow-[0_10px_26px_rgba(0,0,0,0.32)]" style="width:48px;height:48px">
+                  <img src="/logos/providers/dropbox.png" alt="" class="object-contain" style="width:26px;height:26px"/>
+                </div>
+              </div>
+            </div>
+            <div class="absolute" style="left:13%;top:58%;transform:translate(-50%, -50%)">
+              <div class="cn-float inline-flex">
+                <div class="cn-chip grid place-items-center rounded-[14px] bg-white shadow-[0_10px_26px_rgba(0,0,0,0.32)]" style="width:50px;height:50px">
+                  <img src="/logos/providers/hubspot.png" alt="" class="object-contain" style="width:27px;height:27px"/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-anim="divider" aria-hidden="true" class="relative h-6 w-full overflow-hidden">
+        <div class="absolute left-1/2 top-1/2 h-px w-full max-w-[1200px] -translate-x-1/2 -translate-y-1/2 bg-ink/10">
+        </div>
+        <div class="absolute left-1/2 top-1/2 h-[60px] w-[156px] -translate-x-1/2 -translate-y-1/2 bg-paper">
+          <svg viewBox="0 0 156.529 60.3879" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" class="absolute inset-0 h-full w-full text-ink">
+            <path d="M36 28.3698C36 32.6871 39.1509 35.5443 40.0837 36.2957C40.2366 36.4187 40.4453 36.4187 40.5981 36.2957C41.531 35.5444 44.6819 32.6873 44.6819 28.3701C44.6819 25.3672 43.2531 24 40.3409 24C37.4287 24 36 25.3669 36 28.3698Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M58.9354 25.9954C54.8566 27.3295 53.1309 31.229 52.7094 32.3544C52.6402 32.5387 52.7047 32.7386 52.8683 32.8468C53.8663 33.5078 57.5393 35.6416 61.618 34.3075C64.4551 33.3795 65.3053 31.5892 64.4053 28.801C63.5054 26.0129 61.7725 25.0674 58.9354 25.9954Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M81.5049 28.5863C78.9842 25.0935 74.7667 24.6463 73.5732 24.5905C73.3778 24.5813 73.2089 24.7049 73.1571 24.8948C72.841 26.0546 71.9602 30.2304 74.481 33.7231C76.2344 36.1526 78.1885 36.4132 80.5446 34.6901C82.9007 32.9669 83.2584 31.0157 81.5049 28.5863Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M98.7296 33.7233C101.25 30.2306 100.37 26.0547 100.054 24.8949C100.002 24.7048 99.833 24.5813 99.6374 24.5905C98.4441 24.6463 94.2267 25.0933 91.7059 28.586C89.9525 31.0154 90.3101 32.9668 92.6661 34.6901C95.0222 36.4132 96.9762 36.1527 98.7296 33.7233Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M111.592 34.3074C115.671 35.6415 119.344 33.5078 120.342 32.8469C120.506 32.7386 120.57 32.5387 120.501 32.3544C120.08 31.2291 118.354 27.3296 114.276 25.9955C111.438 25.0675 109.705 26.0129 108.805 28.8011C107.905 31.5892 108.755 33.3794 111.592 34.3074Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+          </svg>
+        </div>
+      </div>
+      <div data-anim="row" class="flex flex-col gap-10 min-[1024px]:items-center min-[1024px]:gap-[64px] min-[1024px]:flex-row-reverse">
+        <div class="flex flex-1 flex-col items-start gap-8 py-4 min-[1024px]:min-w-px">
+          <div class="flex w-full flex-col items-start gap-[12px]">
+            <h3 class="font-serif text-[28px] leading-[1.1] tracking-[-0.03em] text-ink">
+              Automate your life using habits.
+            </h3>
+            <p class="text-[16px] leading-[1.5] text-ink/65" style="max-width:470px">
+              Set up any habit just by asking. Anything from a daily news digest to a calorie tracker you text pictures of.
+            </p>
+          </div>
+          <div class="flex w-full flex-col items-start">
+            <div class="flex w-full py-3 border-b-[0.5px] border-ink/10">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-repeat size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="m17 2 4 4-4 4">
+                  </path>
+                  <path d="M3 11v-1a4 4 0 0 1 4-4h14">
+                  </path>
+                  <path d="m7 22-4-4 4-4">
+                  </path>
+                  <path d="M21 13v1a4 4 0 0 1-4 4H3">
+                  </path>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  Set it once, it repeats
+                </p>
+              </div>
+            </div>
+            <div class="flex w-full py-3 border-b-[0.5px] border-ink/10">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sparkles size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z">
+                  </path>
+                  <path d="M20 2v4">
+                  </path>
+                  <path d="M22 4h-4">
+                  </path>
+                  <circle cx="4" cy="20" r="2">
+                  </circle>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  Your routines, on autopilot
+                </p>
+              </div>
+            </div>
+            <div class="flex w-full py-3">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-moon size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401">
+                  </path>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  Runs while you sleep
+                </p>
+              </div>
+            </div>
+          </div>
+          <a class="relative inline-flex cursor-pointer items-center justify-center rounded-full bg-ink px-4 py-2.5 text-sm font-medium leading-none text-paper transition-[opacity,scale] duration-150 hover:opacity-90 motion-safe:active:scale-[0.97] before:absolute before:inset-x-0 before:-inset-y-[5px] before:content-[&#x27;&#x27;]" href="sms:+14152999916">
+            Get Started
+          </a>
+        </div>
+        <div class="relative aspect-[540/400] w-full overflow-hidden rounded-[24px] bg-ink/[0.04] min-[1024px]:aspect-auto min-[1024px]:h-[440px] min-[1024px]:w-[540px] min-[1024px]:shrink-0">
+          <div class="pointer-events-none absolute inset-0">
+            <img alt="" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="(min-width: 1024px) 540px, 100vw" srcSet="/_next/image?url=%2Fbranded%2Fdesk-orchid-night.jpeg&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fdesk-orchid-night.jpeg&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fdesk-orchid-night.jpeg&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fdesk-orchid-night.jpeg&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fdesk-orchid-night.jpeg&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fdesk-orchid-night.jpeg&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fdesk-orchid-night.jpeg&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fdesk-orchid-night.jpeg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fdesk-orchid-night.jpeg&amp;w=3840&amp;q=75"/>
+            <div class="absolute inset-0 bg-[rgba(8,21,46,0.4)]">
+            </div>
+          </div>
+          <div aria-hidden="true" class="absolute inset-0 [container-type:inline-size]">
+            <div class="absolute" style="left:22%;top:12%;transform:translate(-50%, -50%)">
+              <div class="relative origin-center rounded-[3.4cqw] bg-[#0a84ff] px-[2.6cqw] py-[1.5cqw] leading-[1.35] text-white shadow-[0_12px_30px_rgba(10,132,255,0.4)]" style="max-width:36cqw;font-size:2.7cqw;font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;Segoe UI&quot;, sans-serif;opacity:0;transform:scale(0.82);transition:opacity 450ms ease, transform 450ms cubic-bezier(0.34, 1.56, 0.64, 1)">
+                send me a news digest every morning
+                <span class="pointer-events-none absolute -bottom-[1.1cqw] right-[1.5cqw] h-[3.3cqw] w-[3.1cqw]">
+                  <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full text-[#0a84ff]" fill="currentColor" preserveAspectRatio="none">
+                    <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                    </path>
+                  </svg>
+                </span>
+              </div>
+            </div>
+            <div class="absolute" style="left:71%;top:31%;transform:translate(-50%, -50%)">
+              <div class="relative origin-center rounded-[3.4cqw] bg-[#0a84ff] px-[2.6cqw] py-[1.5cqw] leading-[1.35] text-white shadow-[0_12px_30px_rgba(10,132,255,0.4)]" style="max-width:36cqw;font-size:2.7cqw;font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;Segoe UI&quot;, sans-serif;opacity:0;transform:scale(0.82);transition:opacity 450ms ease, transform 450ms cubic-bezier(0.34, 1.56, 0.64, 1)">
+                track the weather, ping me if it&#x27;ll rain 🌧️
+                <span class="pointer-events-none absolute -bottom-[1.1cqw] right-[1.5cqw] h-[3.3cqw] w-[3.1cqw]">
+                  <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full text-[#0a84ff]" fill="currentColor" preserveAspectRatio="none">
+                    <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                    </path>
+                  </svg>
+                </span>
+              </div>
+            </div>
+            <div class="absolute" style="left:35%;top:48%;transform:translate(-50%, -50%)">
+              <div class="relative origin-center rounded-[3.4cqw] bg-[#0a84ff] px-[2.6cqw] py-[1.5cqw] leading-[1.35] text-white shadow-[0_12px_30px_rgba(10,132,255,0.4)]" style="max-width:36cqw;font-size:2.7cqw;font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;Segoe UI&quot;, sans-serif;opacity:0;transform:scale(0.82);transition:opacity 450ms ease, transform 450ms cubic-bezier(0.34, 1.56, 0.64, 1)">
+                be my calorie tracker, i&#x27;ll send you pics
+                <span class="pointer-events-none absolute -bottom-[1.1cqw] right-[1.5cqw] h-[3.3cqw] w-[3.1cqw]">
+                  <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full text-[#0a84ff]" fill="currentColor" preserveAspectRatio="none">
+                    <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                    </path>
+                  </svg>
+                </span>
+              </div>
+            </div>
+            <div class="absolute" style="left:65%;top:66%;transform:translate(-50%, -50%)">
+              <div class="relative origin-center rounded-[3.4cqw] bg-[#0a84ff] px-[2.6cqw] py-[1.5cqw] leading-[1.35] text-white shadow-[0_12px_30px_rgba(10,132,255,0.4)]" style="max-width:36cqw;font-size:2.7cqw;font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;Segoe UI&quot;, sans-serif;opacity:0;transform:scale(0.82);transition:opacity 450ms ease, transform 450ms cubic-bezier(0.34, 1.56, 0.64, 1)">
+                check me in for my flights automatically ✈️
+                <span class="pointer-events-none absolute -bottom-[1.1cqw] right-[1.5cqw] h-[3.3cqw] w-[3.1cqw]">
+                  <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full text-[#0a84ff]" fill="currentColor" preserveAspectRatio="none">
+                    <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                    </path>
+                  </svg>
+                </span>
+              </div>
+            </div>
+            <div class="absolute" style="left:27%;top:85%;transform:translate(-50%, -50%)">
+              <div class="relative origin-center rounded-[3.4cqw] bg-[#0a84ff] px-[2.6cqw] py-[1.5cqw] leading-[1.35] text-white shadow-[0_12px_30px_rgba(10,132,255,0.4)]" style="max-width:36cqw;font-size:2.7cqw;font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;Segoe UI&quot;, sans-serif;opacity:0;transform:scale(0.82);transition:opacity 450ms ease, transform 450ms cubic-bezier(0.34, 1.56, 0.64, 1)">
+                remind me to take my meds at 9
+                <span class="pointer-events-none absolute -bottom-[1.1cqw] right-[1.5cqw] h-[3.3cqw] w-[3.1cqw]">
+                  <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full text-[#0a84ff]" fill="currentColor" preserveAspectRatio="none">
+                    <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                    </path>
+                  </svg>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-anim="divider" aria-hidden="true" class="relative h-6 w-full overflow-hidden">
+        <div class="absolute left-1/2 top-1/2 h-px w-full max-w-[1200px] -translate-x-1/2 -translate-y-1/2 bg-ink/10">
+        </div>
+        <div class="absolute left-1/2 top-1/2 h-[60px] w-[156px] -translate-x-1/2 -translate-y-1/2 bg-paper">
+          <svg viewBox="0 0 156.979 60.0666" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" class="absolute inset-0 h-full w-full text-ink">
+            <path d="M44.0181 25.6923C39.7009 25.6923 36.8436 28.8432 36.0923 29.776C35.9692 29.9289 35.9692 30.1376 36.0923 30.2904C36.8435 31.2233 39.7006 34.3742 44.0178 34.3742C47.0208 34.3742 48.3879 32.9455 48.3879 30.0332C48.3879 27.121 47.0211 25.6923 44.0181 25.6923Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M65.1303 30.2535C63.7962 26.1747 59.8967 24.4489 58.7713 24.0275C58.587 23.9583 58.3871 24.0228 58.2789 24.1864C57.6179 25.1844 55.4841 28.8574 56.8182 32.9361C57.7462 35.7732 59.5365 36.6233 62.3247 35.7234C65.1128 34.8235 66.0583 33.0906 65.1303 30.2535Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M80.6872 33.8613C84.1799 31.3405 84.6271 27.123 84.6829 25.9296C84.6921 25.7341 84.5686 25.5653 84.3786 25.5135C83.2188 25.1974 79.043 24.3166 75.5503 26.8373C73.1209 28.5908 72.8602 30.5449 74.5833 32.901C76.3066 35.257 78.2577 35.6147 80.6872 33.8613Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M94.7581 33.2291C98.2508 35.7499 102.427 34.8691 103.587 34.5532C103.777 34.5014 103.9 34.3325 103.891 34.1369C103.835 32.9436 103.388 28.7262 99.8954 26.2054C97.466 24.452 95.5145 24.8096 93.7913 27.1657C92.0682 29.5217 92.3287 31.4757 94.7581 33.2291Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M112.322 27.1303C110.988 31.209 113.121 34.8821 113.782 35.8802C113.89 36.0438 114.09 36.1082 114.275 36.0392C115.4 35.6177 119.299 33.8921 120.634 29.8134C121.562 26.9763 120.616 25.2431 117.828 24.3432C115.04 23.4433 113.25 24.2932 112.322 27.1303Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+          </svg>
+        </div>
+      </div>
+      <div data-anim="row" class="flex flex-col gap-10 min-[1024px]:items-center min-[1024px]:gap-[64px] min-[1024px]:flex-row">
+        <div class="flex flex-1 flex-col items-start gap-8 py-4 min-[1024px]:min-w-px">
+          <div class="flex w-full flex-col items-start gap-[12px]">
+            <h3 class="font-serif text-[28px] leading-[1.1] tracking-[-0.03em] text-ink">
+              Stay on top of admin.
+            </h3>
+            <p class="text-[16px] leading-[1.5] text-ink/65" style="max-width:460px">
+              Bills, bookings, follow ups, forms. The boring stuff still gets done, you just stop being the one doing it.
+            </p>
+          </div>
+          <div class="flex w-full flex-col items-start">
+            <div class="flex w-full py-3 border-b-[0.5px] border-ink/10">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-inbox size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <polyline points="22 12 16 12 14 15 10 15 8 12 2 12">
+                  </polyline>
+                  <path d="M5.45 5.11 2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.45-6.89A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z">
+                  </path>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  Inbox triaged, replies drafted
+                </p>
+              </div>
+            </div>
+            <div class="flex w-full py-3 border-b-[0.5px] border-ink/10">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-calendar size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="M8 2v3">
+                  </path>
+                  <path d="M16 2v3">
+                  </path>
+                  <rect x="3" y="3" width="18" height="18" rx="2">
+                  </rect>
+                  <path d="M3 9h18">
+                  </path>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  Your calendar, always in order
+                </p>
+              </div>
+            </div>
+            <div class="flex w-full py-3">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-funnel size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="M10 20a1 1 0 0 0 .553.895l2 1A1 1 0 0 0 14 21v-7a2 2 0 0 1 .517-1.341L21.74 4.67A1 1 0 0 0 21 3H3a1 1 0 0 0-.742 1.67l7.225 7.989A2 2 0 0 1 10 14z">
+                  </path>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  The busywork, off your plate
+                </p>
+              </div>
+            </div>
+          </div>
+          <a class="relative inline-flex cursor-pointer items-center justify-center rounded-full bg-ink px-4 py-2.5 text-sm font-medium leading-none text-paper transition-[opacity,scale] duration-150 hover:opacity-90 motion-safe:active:scale-[0.97] before:absolute before:inset-x-0 before:-inset-y-[5px] before:content-[&#x27;&#x27;]" href="sms:+14152999916">
+            Get Started
+          </a>
+        </div>
+        <div class="relative aspect-[540/400] w-full overflow-hidden rounded-[24px] bg-ink/[0.04] min-[1024px]:aspect-auto min-[1024px]:h-[440px] min-[1024px]:w-[540px] min-[1024px]:shrink-0">
+          <div class="pointer-events-none absolute inset-0">
+            <img alt="" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="(min-width: 1024px) 540px, 100vw" srcSet="/_next/image?url=%2Fbranded%2Fday-not-list-photo-01.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-01.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-01.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-01.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-01.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-01.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-01.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-01.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fday-not-list-photo-01.png&amp;w=3840&amp;q=75"/>
+            <div class="absolute inset-0 bg-[rgba(8,21,46,0.4)]">
+            </div>
+          </div>
+          <div aria-hidden="true" class="absolute inset-0">
+            <div class="absolute" style="left:34.07888888888889%;top:43.902125%;transform:translate(-50%, -50%) rotate(-7.83deg)">
+              <div class="relative flex w-[72px] flex-col items-center">
+                <div class="relative h-[64px] w-[64px]">
+                  <img alt="Mail" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="64px" srcSet="/_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=32&amp;q=75 32w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=48&amp;q=75 48w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=64&amp;q=75 64w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=96&amp;q=75 96w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=128&amp;q=75 128w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=256&amp;q=75 256w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=384&amp;q=75 384w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fapp-icons%2Fmail.png&amp;w=3840&amp;q=75"/>
+                </div>
+                <span data-badge="88" class="absolute -top-[12px] left-1/2 flex min-w-[24px] items-center justify-center tabular-nums rounded-[100px] bg-[#ff383c] px-[7px] py-[2.5px] text-center text-[16px] leading-[19px] text-white translate-x-[33px]">
+                  88
+                </span>
+              </div>
+            </div>
+            <div class="absolute" style="left:45.161574074074075%;top:68.857375%;transform:translate(-50%, -50%) rotate(7.51deg)">
+              <div class="relative flex w-[72px] flex-col items-center">
+                <div class="relative h-[64px] w-[64px]">
+                  <img alt="Messages" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="64px" srcSet="/_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=32&amp;q=75 32w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=48&amp;q=75 48w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=64&amp;q=75 64w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=96&amp;q=75 96w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=128&amp;q=75 128w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=256&amp;q=75 256w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=384&amp;q=75 384w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=3840&amp;q=75"/>
+                </div>
+                <span data-badge="120" class="absolute -top-[12px] left-1/2 flex min-w-[24px] items-center justify-center tabular-nums rounded-[100px] bg-[#ff383c] px-[7px] py-[2.5px] text-center text-[16px] leading-[19px] text-white translate-x-[33px]">
+                  120
+                </span>
+              </div>
+            </div>
+            <div class="absolute" style="left:56.820092592592594%;top:31.344499999999996%;transform:translate(-50%, -50%) rotate(-7.41deg)">
+              <div class="relative flex w-[72px] flex-col items-center">
+                <div class="relative h-[64px] w-[64px]">
+                  <img alt="Calendar" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="64px" srcSet="/_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=32&amp;q=75 32w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=48&amp;q=75 48w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=64&amp;q=75 64w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=96&amp;q=75 96w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=128&amp;q=75 128w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=256&amp;q=75 256w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=384&amp;q=75 384w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fapp-icons%2Fcalendar.png&amp;w=3840&amp;q=75"/>
+                </div>
+                <span data-badge="16" class="absolute -top-[12px] left-1/2 flex min-w-[24px] items-center justify-center tabular-nums rounded-[100px] bg-[#ff383c] px-[7px] py-[2.5px] text-center text-[16px] leading-[19px] text-white translate-x-[33px]">
+                  16
+                </span>
+              </div>
+            </div>
+            <div class="absolute" style="left:73.05685185185186%;top:52.339%;transform:translate(-50%, -50%) rotate(11.15deg)">
+              <div class="relative flex w-[72px] flex-col items-center">
+                <div class="relative h-[64px] w-[64px]">
+                  <img alt="Phone" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="64px" srcSet="/_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=32&amp;q=75 32w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=48&amp;q=75 48w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=64&amp;q=75 64w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=96&amp;q=75 96w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=128&amp;q=75 128w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=256&amp;q=75 256w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=384&amp;q=75 384w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fapp-icons%2Fphone.png&amp;w=3840&amp;q=75"/>
+                </div>
+                <span data-badge="3" class="absolute -top-[12px] left-1/2 flex min-w-[24px] items-center justify-center tabular-nums rounded-[100px] bg-[#ff383c] px-[7px] py-[2.5px] text-center text-[16px] leading-[19px] text-white translate-x-[33px]">
+                  3
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-anim="divider" aria-hidden="true" class="relative h-6 w-full overflow-hidden">
+        <div class="absolute left-1/2 top-1/2 h-px w-full max-w-[1200px] -translate-x-1/2 -translate-y-1/2 bg-ink/10">
+        </div>
+        <div class="absolute left-1/2 top-1/2 h-[60px] w-[156px] -translate-x-1/2 -translate-y-1/2 bg-paper">
+          <svg viewBox="0 0 156.529 60.3879" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" class="absolute inset-0 h-full w-full text-ink">
+            <path d="M36 28.3698C36 32.6871 39.1509 35.5443 40.0837 36.2957C40.2366 36.4187 40.4453 36.4187 40.5981 36.2957C41.531 35.5444 44.6819 32.6873 44.6819 28.3701C44.6819 25.3672 43.2531 24 40.3409 24C37.4287 24 36 25.3669 36 28.3698Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M58.9354 25.9954C54.8566 27.3295 53.1309 31.229 52.7094 32.3544C52.6402 32.5387 52.7047 32.7386 52.8683 32.8468C53.8663 33.5078 57.5393 35.6416 61.618 34.3075C64.4551 33.3795 65.3053 31.5892 64.4053 28.801C63.5054 26.0129 61.7725 25.0674 58.9354 25.9954Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M81.5049 28.5863C78.9842 25.0935 74.7667 24.6463 73.5732 24.5905C73.3778 24.5813 73.2089 24.7049 73.1571 24.8948C72.841 26.0546 71.9602 30.2304 74.481 33.7231C76.2344 36.1526 78.1885 36.4132 80.5446 34.6901C82.9007 32.9669 83.2584 31.0157 81.5049 28.5863Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M98.7296 33.7233C101.25 30.2306 100.37 26.0547 100.054 24.8949C100.002 24.7048 99.833 24.5813 99.6374 24.5905C98.4441 24.6463 94.2267 25.0933 91.7059 28.586C89.9525 31.0154 90.3101 32.9668 92.6661 34.6901C95.0222 36.4132 96.9762 36.1527 98.7296 33.7233Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M111.592 34.3074C115.671 35.6415 119.344 33.5078 120.342 32.8469C120.506 32.7386 120.57 32.5387 120.501 32.3544C120.08 31.2291 118.354 27.3296 114.276 25.9955C111.438 25.0675 109.705 26.0129 108.805 28.8011C107.905 31.5892 108.755 33.3794 111.592 34.3074Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+          </svg>
+        </div>
+      </div>
+      <div data-anim="row" class="flex flex-col gap-10 min-[1024px]:items-center min-[1024px]:gap-[64px] min-[1024px]:flex-row-reverse">
+        <div class="flex flex-1 flex-col items-start gap-8 py-4 min-[1024px]:min-w-px">
+          <div class="flex w-full flex-col items-start gap-[12px]">
+            <h3 class="font-serif text-[28px] leading-[1.1] tracking-[-0.03em] text-ink">
+              Never let anything slip through the cracks.
+            </h3>
+            <p class="text-[16px] leading-[1.5] text-ink/65" style="max-width:450px">
+              The starred email, the deadline, your mom&#x27;s birthday. Orchid catches it before you even remember to worry.
+            </p>
+          </div>
+          <div class="flex w-full flex-col items-start">
+            <div class="flex w-full py-3 border-b-[0.5px] border-ink/10">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-bell size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="M10.268 21a2 2 0 0 0 3.464 0">
+                  </path>
+                  <path d="M3.262 15.326A1 1 0 0 0 4 17h16a1 1 0 0 0 .74-1.673C19.41 13.956 18 12.499 18 8A6 6 0 0 0 6 8c0 4.499-1.411 5.956-2.738 7.326">
+                  </path>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  A nudge right when it matters
+                </p>
+              </div>
+            </div>
+            <div class="flex w-full py-3 border-b-[0.5px] border-ink/10">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-calendar-check size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="M8 2v3">
+                  </path>
+                  <path d="M16 2v3">
+                  </path>
+                  <rect x="3" y="3" width="18" height="18" rx="2">
+                  </rect>
+                  <path d="M3 9h18">
+                  </path>
+                  <path d="m9 15 2 2 4-4">
+                  </path>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  Nothing slips through the cracks
+                </p>
+              </div>
+            </div>
+            <div class="flex w-full py-3">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-gift size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="M12 7v14">
+                  </path>
+                  <path d="M20 11v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-8">
+                  </path>
+                  <path d="M7.5 7a1 1 0 0 1 0-5A4.8 8 0 0 1 12 7a4.8 8 0 0 1 4.5-5 1 1 0 0 1 0 5">
+                  </path>
+                  <rect x="3" y="7" width="18" height="4" rx="1">
+                  </rect>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  The thoughtful thing, on time
+                </p>
+              </div>
+            </div>
+          </div>
+          <a class="relative inline-flex cursor-pointer items-center justify-center rounded-full bg-ink px-4 py-2.5 text-sm font-medium leading-none text-paper transition-[opacity,scale] duration-150 hover:opacity-90 motion-safe:active:scale-[0.97] before:absolute before:inset-x-0 before:-inset-y-[5px] before:content-[&#x27;&#x27;]" href="sms:+14152999916">
+            Get Started
+          </a>
+        </div>
+        <div class="relative aspect-[540/400] w-full overflow-hidden rounded-[24px] bg-ink/[0.04] min-[1024px]:aspect-auto min-[1024px]:h-[440px] min-[1024px]:w-[540px] min-[1024px]:shrink-0">
+          <div class="pointer-events-none absolute inset-0">
+            <img alt="" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="(min-width: 1024px) 540px, 100vw" srcSet="/_next/image?url=%2Fbranded%2Fday-not-list-photo-03.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-03.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-03.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-03.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-03.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-03.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-03.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-03.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fday-not-list-photo-03.png&amp;w=3840&amp;q=75"/>
+            <div class="absolute inset-0 bg-[rgba(8,21,46,0.4)]">
+            </div>
+          </div>
+          <div aria-hidden="true" class="absolute left-1/2 top-1/2 w-[calc(100%-32px)] max-w-[460px] -translate-x-1/2 -translate-y-1/2">
+            <div class="gradient-border relative flex items-center gap-[14.329px] rounded-[34.391px] px-[20.061px] py-[17.195px] bg-white/[0.07] shadow-[0_16.427px_82.133px_0_rgba(0,0,0,0.1)] backdrop-blur-[20px] [--gb-w:1px] [--gb-angle:to_bottom] [--gb-from:rgba(255,255,255,0.18)] [--gb-to:rgba(255,255,255,0)]">
+              <div class="relative h-[44px] w-[44px] shrink-0">
+                <div class="relative h-full w-full overflow-hidden rounded-[10px]">
+                  <img alt="" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="44px" srcSet="/_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=32&amp;q=75 32w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=48&amp;q=75 48w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=64&amp;q=75 64w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=96&amp;q=75 96w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=128&amp;q=75 128w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=256&amp;q=75 256w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=384&amp;q=75 384w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fapp-icons%2Forchid-square.png&amp;w=3840&amp;q=75"/>
+                </div>
+                <div class="absolute -right-[3px] -bottom-[3px] h-[20px] w-[20px] overflow-hidden rounded-[5px] ring-[1.5px] ring-black/30">
+                  <img alt="" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="20px" srcSet="/_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=32&amp;q=75 32w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=48&amp;q=75 48w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=64&amp;q=75 64w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=96&amp;q=75 96w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=128&amp;q=75 128w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=256&amp;q=75 256w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=384&amp;q=75 384w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fapp-icons%2Fmessages.png&amp;w=3840&amp;q=75"/>
+                </div>
+              </div>
+              <div class="flex min-w-0 flex-1 items-start gap-2">
+                <div class="flex min-w-0 flex-1 flex-col text-white">
+                  <span class="text-[17px] font-[590] leading-[1.15] tracking-[-0.015em]">
+                    Orchid
+                  </span>
+                  <span class="text-[14px] font-normal leading-[1.3] tracking-[-0.015em]">
+                    heads up, your flight check-in opens in an hour. want me to grab your usual aisle seat? ✈️
+                  </span>
+                </div>
+                <span class="shrink-0 text-[13px] leading-[1] text-[#797979]">
+                  now
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-anim="divider" aria-hidden="true" class="relative h-6 w-full overflow-hidden">
+        <div class="absolute left-1/2 top-1/2 h-px w-full max-w-[1200px] -translate-x-1/2 -translate-y-1/2 bg-ink/10">
+        </div>
+        <div class="absolute left-1/2 top-1/2 h-[60px] w-[156px] -translate-x-1/2 -translate-y-1/2 bg-paper">
+          <svg viewBox="0 0 156.979 60.0666" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" class="absolute inset-0 h-full w-full text-ink">
+            <path d="M44.0181 25.6923C39.7009 25.6923 36.8436 28.8432 36.0923 29.776C35.9692 29.9289 35.9692 30.1376 36.0923 30.2904C36.8435 31.2233 39.7006 34.3742 44.0178 34.3742C47.0208 34.3742 48.3879 32.9455 48.3879 30.0332C48.3879 27.121 47.0211 25.6923 44.0181 25.6923Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M65.1303 30.2535C63.7962 26.1747 59.8967 24.4489 58.7713 24.0275C58.587 23.9583 58.3871 24.0228 58.2789 24.1864C57.6179 25.1844 55.4841 28.8574 56.8182 32.9361C57.7462 35.7732 59.5365 36.6233 62.3247 35.7234C65.1128 34.8235 66.0583 33.0906 65.1303 30.2535Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M80.6872 33.8613C84.1799 31.3405 84.6271 27.123 84.6829 25.9296C84.6921 25.7341 84.5686 25.5653 84.3786 25.5135C83.2188 25.1974 79.043 24.3166 75.5503 26.8373C73.1209 28.5908 72.8602 30.5449 74.5833 32.901C76.3066 35.257 78.2577 35.6147 80.6872 33.8613Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M94.7581 33.2291C98.2508 35.7499 102.427 34.8691 103.587 34.5532C103.777 34.5014 103.9 34.3325 103.891 34.1369C103.835 32.9436 103.388 28.7262 99.8954 26.2054C97.466 24.452 95.5145 24.8096 93.7913 27.1657C92.0682 29.5217 92.3287 31.4757 94.7581 33.2291Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+            <path d="M112.322 27.1303C110.988 31.209 113.121 34.8821 113.782 35.8802C113.89 36.0438 114.09 36.1082 114.275 36.0392C115.4 35.6177 119.299 33.8921 120.634 29.8134C121.562 26.9763 120.616 25.2431 117.828 24.3432C115.04 23.4433 113.25 24.2932 112.322 27.1303Z" fill="currentColor" fill-opacity="0.5">
+            </path>
+          </svg>
+        </div>
+      </div>
+      <div data-anim="row" class="flex flex-col gap-10 min-[1024px]:items-center min-[1024px]:gap-[64px] min-[1024px]:flex-row">
+        <div class="flex flex-1 flex-col items-start gap-8 py-4 min-[1024px]:min-w-px">
+          <div class="flex w-full flex-col items-start gap-[12px]">
+            <h3 class="font-serif text-[28px] leading-[1.1] tracking-[-0.03em] text-ink">
+              Your second brain.
+            </h3>
+            <p class="text-[16px] leading-[1.5] text-ink/65" style="max-width:470px">
+              The wine you loved, your kid&#x27;s allergy, where you parked. Tell Orchid once and it never forgets.
+            </p>
+          </div>
+          <div class="flex w-full flex-col items-start">
+            <div class="flex w-full py-3 border-b-[0.5px] border-ink/10">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-brain size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="M12 18V5">
+                  </path>
+                  <path d="M15 13a4.17 4.17 0 0 1-3-4 4.17 4.17 0 0 1-3 4">
+                  </path>
+                  <path d="M17.598 6.5A3 3 0 1 0 12 5a3 3 0 1 0-5.598 1.5">
+                  </path>
+                  <path d="M17.997 5.125a4 4 0 0 1 2.526 5.77">
+                  </path>
+                  <path d="M18 18a4 4 0 0 0 2-7.464">
+                  </path>
+                  <path d="M19.967 17.483A4 4 0 1 1 12 18a4 4 0 1 1-7.967-.517">
+                  </path>
+                  <path d="M6 18a4 4 0 0 1-2-7.464">
+                  </path>
+                  <path d="M6.003 5.125a4 4 0 0 0-2.526 5.77">
+                  </path>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  Never forgets a detail
+                </p>
+              </div>
+            </div>
+            <div class="flex w-full py-3 border-b-[0.5px] border-ink/10">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-sparkles size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z">
+                  </path>
+                  <path d="M20 2v4">
+                  </path>
+                  <path d="M22 4h-4">
+                  </path>
+                  <circle cx="4" cy="20" r="2">
+                  </circle>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  Recalls it the second you need it
+                </p>
+              </div>
+            </div>
+            <div class="flex w-full py-3">
+              <div class="flex items-center gap-[12px]">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-heart size-[18px] shrink-0 text-ink/70" aria-hidden="true">
+                  <path d="M2 9.5a5.5 5.5 0 0 1 9.591-3.676.56.56 0 0 0 .818 0A5.49 5.49 0 0 1 22 9.5c0 2.29-1.5 4-3 5.5l-5.492 5.313a2 2 0 0 1-3 .019L5 15c-1.5-1.5-3-3.2-3-5.5">
+                  </path>
+                </svg>
+                <p class="max-w-[530px] text-[15px] leading-[1.5] text-ink/65 md:text-[16px]">
+                  Remembers what matters to you
+                </p>
+              </div>
+            </div>
+          </div>
+          <a class="relative inline-flex cursor-pointer items-center justify-center rounded-full bg-ink px-4 py-2.5 text-sm font-medium leading-none text-paper transition-[opacity,scale] duration-150 hover:opacity-90 motion-safe:active:scale-[0.97] before:absolute before:inset-x-0 before:-inset-y-[5px] before:content-[&#x27;&#x27;]" href="sms:+14152999916">
+            Get Started
+          </a>
+        </div>
+        <div class="relative aspect-[540/400] w-full overflow-hidden rounded-[24px] bg-ink/[0.04] min-[1024px]:aspect-auto min-[1024px]:h-[440px] min-[1024px]:w-[540px] min-[1024px]:shrink-0">
+          <div class="pointer-events-none absolute inset-0">
+            <img alt="" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="(min-width: 1024px) 540px, 100vw" srcSet="/_next/image?url=%2Fbranded%2Fday-not-list-photo-02.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-02.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-02.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-02.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-02.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-02.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-02.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fday-not-list-photo-02.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fday-not-list-photo-02.png&amp;w=3840&amp;q=75"/>
+            <div class="absolute inset-0 bg-[rgba(8,21,46,0.4)]">
+            </div>
+          </div>
+          <div aria-hidden="true" class="absolute inset-0 flex items-center justify-center p-6">
+            <div class="flex w-[340px] max-w-[calc(100%-40px)] flex-col [container-type:inline-size]">
+              <div class="">
+                <div class="flex w-full transition-[margin,padding] duration-300 ease-out justify-end pb-[1.49cqw]">
+                  <div class="relative max-w-[69.65cqw] rounded-[4.98cqw] px-[2.99cqw] py-[2.24cqw] bg-[#0088ff] text-white" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                    <p class="whitespace-pre-wrap leading-[1.295] tracking-[-0.005em] text-[4.23cqw]">
+                      what was that restaurant we loved for our anniversary?
+                    </p>
+                    <span aria-hidden="true" class="pointer-events-none absolute -bottom-[1.73cqw] h-[4.46cqw] w-[4.23cqw] transition-opacity duration-300 ease-out opacity-100 right-[1.75cqw] origin-bottom-right">
+                      <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full text-[#0088ff]" fill="currentColor" preserveAspectRatio="none">
+                        <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                        </path>
+                      </svg>
+                    </span>
+                  </div>
+                </div>
+              </div>
+              <div class="flex justify-start mt-[3.5cqw]">
+                <span class="block w-[42cqw] overflow-hidden rounded-[4.98cqw] shadow-[0_6px_20px_rgba(0,0,0,0.28)]">
+                  <img src="/branded/tartine.jpeg" alt="" class="block h-auto w-full"/>
+                </span>
+              </div>
+              <div class="mt-[1cqw]">
+                <div class="flex w-full transition-[margin,padding] duration-300 ease-out justify-start pb-[1.49cqw]">
+                  <div class="relative max-w-[69.65cqw] rounded-[4.98cqw] px-[2.99cqw] py-[2.24cqw] bg-[var(--ios-bubble-received)] text-[var(--ios-text-primary)]" style="font-family:system-ui, -apple-system, &quot;SF Pro Text&quot;, &quot;SF Pro Display&quot;, &quot;Segoe UI&quot;, sans-serif;font-variation-settings:&#x27;wdth&#x27; 100">
+                    <p class="whitespace-pre-wrap leading-[1.295] tracking-[-0.005em] text-[4.23cqw]">
+                      Tartine, last march. you had the morning bun 🥐
+                    </p>
+                    <span aria-hidden="true" class="pointer-events-none absolute -bottom-[1.73cqw] h-[4.46cqw] w-[4.23cqw] transition-opacity duration-300 ease-out opacity-100 left-[1.75cqw] origin-bottom-left">
+                      <svg viewBox="0 0 17 18" overflow="visible" class="h-full w-full -scale-x-100 text-[var(--ios-bubble-received)]" fill="currentColor" preserveAspectRatio="none">
+                        <path d="M1.8 11C2.79 11 3.44 11.31 4.77 12.24C5.48 12.74 8.22 14.84 10.49 16.09C12.45 17.17 14.13 17.91 14.55 17.94C15.81 18.04 15.97 16.85 15.48 16.21C14.99 15.57 14.43 14.74 14.21 14.29C13.73 13.28 13.58 12.75 13.58 11.24C13.58 9.38 14.9 8 15.94 7.08C16.03 7 16.15 6.9 16.29 6.79C16.53 6.6 16.76 6.41 16.99 6.22V0H0V11H1.8Z">
+                        </path>
+                      </svg>
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section aria-labelledby="live-counts-title" class="relative overflow-hidden bg-paper px-6 py-20 md:px-12 md:py-28">
+    <div class="mx-auto w-full max-w-[1000px]">
+      <div class="lc-heading flex flex-col items-center gap-4 text-center">
+        <span class="inline-flex items-center gap-2 rounded-full bg-ink/[0.04] px-3 py-1.5 text-[12px] uppercase tracking-[0.14em] text-ink/55">
+          <span class="relative flex size-1.5">
+            <span class="absolute inline-flex size-full animate-ping rounded-full bg-ink/40">
+            </span>
+            <span class="relative inline-flex size-1.5 rounded-full bg-ink/70">
+            </span>
+          </span>
+          Live
+        </span>
+        <h2 id="live-counts-title" class="mx-auto max-w-[min(92vw,620px)] text-balance font-serif font-normal leading-[1.1] tracking-[-0.03em] text-ink text-[clamp(28px,4vw,44px)]">
+          Orchid is working right now.
+        </h2>
+      </div>
+      <div class="mt-12 grid grid-cols-1 gap-10 sm:grid-cols-2 sm:gap-0 sm:divide-x sm:divide-ink/10">
+        <div class="lc-item flex flex-col items-center gap-3 px-4 text-center sm:px-10">
+          <span class="font-serif tabular-nums leading-none tracking-[-0.03em] text-ink text-[clamp(44px,7vw,84px)]">
+            <span aria-hidden="true">
+              848,195
+            </span>
+            <span class="sr-only">
+              848,195
+            </span>
+          </span>
+          <h3 class="font-serif text-[19px] leading-[1.1] tracking-[-0.01em] text-ink">
+            Emails processed
+          </h3>
+          <p class="max-w-[280px] text-pretty text-[14px] leading-[1.5] text-ink/60">
+            Triaged, drafted, and handled end to end.
+          </p>
+        </div>
+        <div class="lc-item flex flex-col items-center gap-3 px-4 text-center sm:px-10">
+          <span class="font-serif tabular-nums leading-none tracking-[-0.03em] text-ink text-[clamp(44px,7vw,84px)]">
+            <span aria-hidden="true">
+              1,760,018
+            </span>
+            <span class="sr-only">
+              1,760,018
+            </span>
+          </span>
+          <h3 class="font-serif text-[19px] leading-[1.1] tracking-[-0.01em] text-ink">
+            Actions logged
+          </h3>
+          <p class="max-w-[280px] text-pretty text-[14px] leading-[1.5] text-ink/60">
+            Every decision Orchid made, on the record.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section aria-labelledby="cta-title" class="px-6 py-16 md:px-[120px] md:py-24">
+    <div class="relative mx-auto flex aspect-[16/9] w-full max-w-[1440px] items-center justify-center overflow-hidden rounded-[32px]">
+      <img alt="" loading="lazy" decoding="async" data-nimg="fill" class="object-cover" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent" sizes="(min-width: 1440px) 1440px, 100vw" srcSet="/_next/image?url=%2Fbranded%2Fstore-at-dusk.jpeg&amp;w=640&amp;q=75 640w, /_next/image?url=%2Fbranded%2Fstore-at-dusk.jpeg&amp;w=750&amp;q=75 750w, /_next/image?url=%2Fbranded%2Fstore-at-dusk.jpeg&amp;w=828&amp;q=75 828w, /_next/image?url=%2Fbranded%2Fstore-at-dusk.jpeg&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Fbranded%2Fstore-at-dusk.jpeg&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Fbranded%2Fstore-at-dusk.jpeg&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Fbranded%2Fstore-at-dusk.jpeg&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Fbranded%2Fstore-at-dusk.jpeg&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Fbranded%2Fstore-at-dusk.jpeg&amp;w=3840&amp;q=75"/>
+      <div aria-hidden="true" class="absolute inset-0 bg-[rgba(8,21,46,0.35)]">
+      </div>
+      <div class="relative z-10 flex flex-col items-center gap-8 px-6 text-center md:gap-10 md:px-12">
+        <h2 id="cta-title" class="cta-headline max-w-[720px] font-serif font-medium text-paper leading-[1.05] tracking-[-0.04em] text-[clamp(40px,6vw,80px)]">
+          Meet your new assistant.
+        </h2>
+        <div class="cta-ctas flex items-center gap-3">
+          <a class="relative inline-flex cursor-pointer items-center gap-2.5 rounded-full bg-paper px-6 py-4 text-sm font-medium leading-none text-ink transition-[opacity,scale] duration-150 hover:opacity-90 motion-safe:active:scale-[0.96] before:absolute before:inset-x-0 before:-inset-y-[5px] before:content-[&#x27;&#x27;]" href="sms:+14152999916">
+            <img alt="" aria-hidden="true" loading="lazy" width="20" height="20" decoding="async" data-nimg="1" class="size-5 select-none" style="color:transparent" srcSet="/_next/image?url=%2Fbranded%2Fimessage-icon.png&amp;w=32&amp;q=75 1x, /_next/image?url=%2Fbranded%2Fimessage-icon.png&amp;w=48&amp;q=75 2x" src="/_next/image?url=%2Fbranded%2Fimessage-icon.png&amp;w=48&amp;q=75"/>
+            Get Started
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+<footer class="relative overflow-hidden bg-paper px-6 pt-20 pb-20 md:px-[120px] md:pt-[120px] md:pb-[120px]">
+  <div class="relative z-10 flex w-full flex-col gap-16 lg:flex-row lg:items-start lg:justify-between">
+    <div class="flex flex-col items-start gap-10">
+      <a aria-label="Orchid home" class="inline-flex items-center" href="/">
+        <span class="inline-flex items-center text-ink" aria-label="Orchid">
+          <svg width="117" height="28" viewBox="0 0 117 28" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <g clip-path="url(#clip0_242_1499)">
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M10.0469 4.36984C10.0469 8.68706 13.1977 11.5443 14.1306 12.2957C14.2834 12.4187 14.4921 12.4187 14.645 12.2957C15.5778 11.5444 18.7288 8.68731 18.7288 4.3701C18.7288 1.36715 17.3 -1.51868e-06 14.3878 0C11.4756 -1.39213e-06 10.0469 1.36688 10.0469 4.36984Z" fill="currentColor">
+              </path>
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M22.9625 7.46631C18.8837 8.8004 17.1579 12.6999 16.7364 13.8253C16.6673 14.0096 16.7318 14.2095 16.8953 14.3177C17.8934 14.9787 21.5663 17.1125 25.6451 15.7784C28.4822 14.8504 29.3323 13.0601 28.4324 10.2719C27.5324 7.48375 25.7996 6.53834 22.9625 7.46631Z" fill="currentColor">
+              </path>
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M24.028 20.7882C21.5072 17.2955 17.2897 16.8483 16.0963 16.7925C15.9008 16.7833 15.7319 16.9068 15.6801 17.0968C15.3641 18.2566 14.4832 22.4324 17.004 25.9251C18.7574 28.3545 20.7115 28.6152 23.0676 26.8921C25.4237 25.1688 25.7814 23.2177 24.028 20.7882Z" fill="currentColor">
+              </path>
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M11.7707 25.9253C14.2915 22.4326 13.4107 18.2567 13.0947 17.0969C13.0429 16.9068 12.8741 16.7833 12.6785 16.7925C11.4852 16.8483 7.2678 17.2953 4.74698 20.788C2.99356 23.2174 3.35116 25.1688 5.70723 26.8921C8.06329 28.6152 10.0173 28.3547 11.7707 25.9253Z" fill="currentColor">
+              </path>
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M3.13025 15.7782C7.20901 17.1123 10.8821 14.9786 11.8802 14.3177C12.0438 14.2094 12.1082 14.0096 12.0392 13.8252C11.6177 12.6999 9.89214 8.80041 5.81336 7.46631C2.97627 6.53835 1.24313 7.48372 0.343193 10.2719C-0.556745 13.06 0.293156 14.8503 3.13025 15.7782Z" fill="currentColor">
+              </path>
+              <path d="M45.9465 5.6377C47.6933 5.6377 49.2177 5.99439 50.5197 6.70776C51.8382 7.42114 52.8599 8.44972 53.5851 9.79349C54.3102 11.1207 54.6727 12.7383 54.6727 14.6462C54.6727 16.5042 54.302 18.1301 53.5603 19.5236C52.8187 20.9172 51.7804 22.0039 50.4455 22.7836C49.1272 23.5633 47.6192 23.9532 45.9217 23.9532C44.1747 23.9532 42.6421 23.5964 41.3237 22.8831C40.0217 22.1698 39.0081 21.1412 38.283 19.7974C37.5579 18.4535 37.1953 16.836 37.1953 14.9447C37.1953 13.0866 37.5661 11.4608 38.3078 10.0673C39.0659 8.67369 40.0959 7.58704 41.3979 6.8073C42.7162 6.02757 44.2324 5.6377 45.9465 5.6377ZM45.8476 6.08563C44.9246 6.08563 44.1171 6.45891 43.4249 7.20546C42.7492 7.95202 42.2218 8.98062 41.8428 10.2912C41.4802 11.6019 41.299 13.1198 41.299 14.8452C41.299 16.6038 41.505 18.1384 41.917 19.4489C42.3455 20.743 42.9141 21.7467 43.6227 22.4601C44.3478 23.1568 45.1471 23.5053 46.0206 23.5053C46.9435 23.5053 47.7427 23.132 48.4185 22.3854C49.1106 21.6389 49.638 20.6102 50.0006 19.2997C50.3796 17.9725 50.5692 16.4544 50.5692 14.7456C50.5692 12.9705 50.3549 11.436 49.9264 10.1419C49.5144 8.84788 48.9459 7.85248 48.2207 7.1557C47.5121 6.44232 46.721 6.08563 45.8476 6.08563Z" fill="currentColor">
+              </path>
+              <path d="M64.832 10.3906C65.3594 10.3906 65.7878 10.5067 66.1175 10.7391C66.4471 10.9547 66.686 11.2368 66.8343 11.5851C66.9991 11.9335 67.0815 12.2985 67.0815 12.6801C67.0815 13.2939 66.9002 13.7999 66.5377 14.198C66.1916 14.5796 65.7302 14.7704 65.1533 14.7704C64.5765 14.7704 64.1233 14.6294 63.7937 14.3474C63.4806 14.0487 63.324 13.6588 63.324 13.1778C63.324 12.7132 63.4229 12.3316 63.6206 12.033C63.8349 11.7178 64.0986 11.4524 64.4117 11.2368C64.181 11.1703 63.9503 11.1787 63.7195 11.2616C63.4064 11.3114 63.1097 11.4441 62.8296 11.6597C62.5495 11.8589 62.3104 12.116 62.1127 12.4312C61.9149 12.7299 61.7584 13.0617 61.643 13.4266C61.5276 13.775 61.47 14.1151 61.47 14.4469V21.0415C61.47 21.8378 61.6595 22.377 62.0385 22.659C62.434 22.941 63.0191 23.0821 63.7937 23.0821V23.6046C63.4147 23.5881 62.8625 23.5715 62.1374 23.5548C61.4123 23.5217 60.6542 23.5051 59.8631 23.5051C59.2039 23.5051 58.5365 23.5217 57.8608 23.5548C57.1851 23.5715 56.6742 23.5881 56.3281 23.6046V23.0821C56.9049 23.0821 57.3087 22.9576 57.5394 22.7088C57.7866 22.4599 57.9102 21.9871 57.9102 21.2903V13.4515C57.9102 12.7049 57.7948 12.1574 57.5642 11.8091C57.3499 11.4441 56.9378 11.2616 56.3281 11.2616V10.7391C56.8555 10.7888 57.3663 10.8137 57.8608 10.8137C58.5529 10.8137 59.1957 10.7888 59.7889 10.7391C60.3987 10.6726 60.9591 10.5814 61.47 10.4653V12.7796C61.6677 12.3316 61.9315 11.9252 62.261 11.5602C62.5906 11.1953 62.9696 10.9132 63.3981 10.7141C63.8267 10.4984 64.3046 10.3906 64.832 10.3906Z" fill="currentColor">
+              </path>
+              <path d="M73.9569 10.3906C74.5996 10.3906 75.1847 10.4653 75.712 10.6146C76.2559 10.7473 76.7009 10.9215 77.0469 11.1372C77.4754 11.4026 77.805 11.7345 78.0358 12.1326C78.2829 12.5142 78.4066 12.9621 78.4066 13.4764C78.4066 14.0571 78.2253 14.5381 77.8627 14.9197C77.5002 15.2847 77.0305 15.4672 76.4537 15.4672C75.8769 15.4672 75.4154 15.3013 75.0693 14.9695C74.7232 14.6377 74.5502 14.1898 74.5502 13.6257C74.5502 13.0948 74.715 12.6552 75.0446 12.3068C75.3742 11.9418 75.7532 11.7012 76.1817 11.5851C76.0499 11.4192 75.8521 11.2782 75.5885 11.162C75.3247 11.0459 75.0281 10.9879 74.6985 10.9879C74.1876 10.9879 73.7343 11.1372 73.3388 11.4358C72.9598 11.7344 72.6384 12.1492 72.3748 12.6801C72.111 13.2109 71.9051 13.8331 71.7568 14.5464C71.6249 15.2598 71.559 16.0395 71.559 16.8857C71.559 18.1631 71.7155 19.1668 72.0287 19.8967C72.3582 20.6267 72.7703 21.1411 73.2647 21.4396C73.7756 21.7382 74.3029 21.8876 74.8468 21.8876C75.16 21.8876 75.4978 21.8378 75.8603 21.7382C76.2394 21.6388 76.6184 21.4396 76.9975 21.1411C77.3931 20.8424 77.7556 20.4194 78.0852 19.8719L78.5055 20.0211C78.3242 20.635 78.0275 21.2488 77.6155 21.8627C77.2036 22.4765 76.6679 22.9825 76.0086 23.3807C75.3495 23.7622 74.542 23.953 73.586 23.953C72.5149 23.953 71.5425 23.7207 70.669 23.2563C69.8121 22.7751 69.1199 22.0452 68.5925 21.0663C68.0816 20.0709 67.8262 18.7935 67.8262 17.234C67.8262 15.7409 68.0899 14.4883 68.6173 13.4764C69.1611 12.4478 69.8945 11.6764 70.8174 11.162C71.7402 10.6478 72.7868 10.3906 73.9569 10.3906Z" fill="currentColor">
+              </path>
+              <path d="M84.8118 4.14453V12.705C85.2238 11.8423 85.7759 11.2451 86.4681 10.9133C87.1767 10.5649 87.968 10.3907 88.8412 10.3907C89.55 10.3907 90.1187 10.482 90.5466 10.6644C90.9754 10.8303 91.3131 11.0626 91.5607 11.3613C91.8407 11.6764 92.0385 12.0829 92.154 12.5806C92.2852 13.0783 92.3517 13.7502 92.3517 14.5963V21.2904C92.3517 21.9872 92.4672 22.46 92.6974 22.7089C92.945 22.9577 93.3571 23.0821 93.9337 23.0821V23.6047C93.6205 23.5882 93.1427 23.5715 92.4996 23.5549C91.874 23.5217 91.2641 23.5052 90.6709 23.5052C90.0277 23.5052 89.4012 23.5217 88.7922 23.5549C88.1981 23.5715 87.7536 23.5882 87.4569 23.6047V23.0821C87.9514 23.0821 88.297 22.9577 88.4947 22.7089C88.6934 22.46 88.7922 21.9872 88.7922 21.2904V13.5511C88.7922 13.1364 88.7502 12.7797 88.668 12.4811C88.5857 12.1658 88.4291 11.9253 88.1981 11.7594C87.9846 11.5769 87.6714 11.4857 87.2591 11.4857C86.8142 11.4857 86.4022 11.6101 86.0231 11.859C85.6605 12.0912 85.3639 12.423 85.1332 12.8544C84.919 13.2856 84.8118 13.7833 84.8118 14.3475V21.2904C84.8118 21.9872 84.9106 22.46 85.1085 22.7089C85.3062 22.9577 85.6523 23.0821 86.1467 23.0821V23.6047C85.85 23.5882 85.4133 23.5715 84.8365 23.5549C84.2597 23.5217 83.6746 23.5052 83.0814 23.5052C82.4386 23.5052 81.7877 23.5217 81.1285 23.5549C80.4857 23.5715 79.9995 23.5882 79.6699 23.6047V23.0821C80.2467 23.0821 80.6505 22.9577 80.8813 22.7089C81.1285 22.46 81.252 21.9872 81.252 21.2904V7.13075C81.252 6.3842 81.1367 5.83673 80.9059 5.48833C80.6917 5.12335 80.2797 4.94086 79.6699 4.94086V4.41827C80.1973 4.46804 80.7082 4.49293 81.2026 4.49293C81.8783 4.49293 82.521 4.46804 83.1308 4.41827C83.7406 4.35192 84.301 4.26067 84.8118 4.14453Z" fill="currentColor">
+              </path>
+              <path d="M98.0459 4.31934C98.738 4.31934 99.2823 4.49353 99.6778 4.84192C100.09 5.17372 100.296 5.63825 100.296 6.23549C100.296 6.83273 100.09 7.30555 99.6778 7.65394C99.2823 7.98574 98.738 8.15164 98.0459 8.15164C97.3538 8.15164 96.8017 7.98574 96.3895 7.65394C95.994 7.30555 95.7963 6.83273 95.7963 6.23549C95.7963 5.63825 95.994 5.17372 96.3895 4.84192C96.8017 4.49353 97.3538 4.31934 98.0459 4.31934ZM99.9744 10.4659V21.291C99.9744 21.9878 100.09 22.4606 100.32 22.7095C100.568 22.9583 100.98 23.0827 101.556 23.0827V23.6053C101.26 23.5888 100.798 23.5721 100.172 23.5555C99.5457 23.5223 98.9113 23.5058 98.2682 23.5058C97.6259 23.5058 96.9749 23.5223 96.3152 23.5555C95.6563 23.5721 95.1619 23.5888 94.832 23.6053V23.0827C95.4087 23.0827 95.8129 22.9583 96.0439 22.7095C96.2907 22.4606 96.414 21.9878 96.414 21.291V13.4521C96.414 12.7056 96.2994 12.1581 96.0684 11.8098C95.854 11.4448 95.4419 11.2623 94.832 11.2623V10.7397C95.3597 10.7894 95.8707 10.8144 96.365 10.8144C97.0572 10.8144 97.7003 10.7894 98.2935 10.7397C98.9025 10.6733 99.4634 10.5821 99.9744 10.4659Z" fill="currentColor">
+              </path>
+              <path fill-rule="evenodd" clip-rule="evenodd" d="M111.234 20.6963C111.157 21.3192 110.926 21.8244 110.541 22.2116C110.096 22.6596 109.594 22.8836 109.033 22.8836C108.572 22.8836 108.16 22.701 107.798 22.3361C107.451 21.9711 107.179 21.3738 106.981 20.5443C106.8 19.6982 106.709 18.5701 106.709 17.1599C106.694 15.1028 106.932 13.5848 107.427 12.606C107.921 11.6106 108.589 11.1129 109.429 11.1129C109.824 11.1129 110.195 11.2041 110.541 11.3866C110.814 11.5114 111.045 11.7018 111.234 11.958V20.6963ZM111.234 23.854V21.7196C110.985 22.3799 110.63 22.9006 110.171 23.2817C109.627 23.7296 108.91 23.9536 108.02 23.9536C107.048 23.9536 106.174 23.7131 105.399 23.2319C104.642 22.7508 104.048 22.0126 103.62 21.0172C103.191 20.0052 102.977 18.7028 102.977 17.1101C102.977 15.6005 103.215 14.3562 103.694 13.3774C104.172 12.382 104.823 11.6354 105.647 11.1377C106.487 10.64 107.435 10.3912 108.49 10.3912C109.214 10.3912 109.849 10.5156 110.393 10.7645C110.713 10.8974 110.994 11.0846 111.234 11.3261V7.10634C111.234 6.35979 111.118 5.81231 110.887 5.46392C110.673 5.09894 110.261 4.91645 109.651 4.91645V4.39386C110.179 4.44363 110.69 4.46852 111.184 4.46852C111.86 4.46852 112.503 4.44363 113.113 4.39386C113.722 4.3275 114.282 4.23626 114.793 4.12012V20.8678C114.793 21.6144 114.909 22.1702 115.139 22.5351C115.37 22.8836 115.782 23.0577 116.375 23.0577V23.5803C115.864 23.5305 115.353 23.5057 114.842 23.5057C114.15 23.5057 113.499 23.5305 112.889 23.5803C112.296 23.6301 111.744 23.7213 111.234 23.854Z" fill="currentColor">
+              </path>
+            </g>
+            <defs>
+              <clipPath id="clip0_242_1499">
+                <rect width="116.375" height="28" fill="white">
+                </rect>
+              </clipPath>
+            </defs>
+          </svg>
+        </span>
+      </a>
+    </div>
+    <div class="flex flex-col gap-12 sm:flex-row sm:flex-wrap sm:gap-16 lg:flex-nowrap lg:gap-24">
+      <div class="flex flex-col gap-6">
+        <h3 class="font-serif text-[18px] font-medium leading-none tracking-[-0.01em] text-ink">
+          Social
+        </h3>
+        <a class="text-sm leading-none text-ink/70 transition-colors hover:text-ink" href="https://x.com/orchid_hq">
+          X (formerly Twitter)
+        </a>
+        <a class="text-sm leading-none text-ink/70 transition-colors hover:text-ink" href="https://www.linkedin.com/company/mail0/">
+          LinkedIn
+        </a>
+        <a class="text-sm leading-none text-ink/70 transition-colors hover:text-ink" href="https://discord.gg/orchid">
+          Discord
+        </a>
+      </div>
+      <div class="flex flex-col gap-6">
+        <h3 class="font-serif text-[18px] font-medium leading-none tracking-[-0.01em] text-ink">
+          Company
+        </h3>
+        <a class="text-sm leading-none text-ink/70 transition-colors hover:text-ink" href="/blog">
+          Blog
+        </a>
+        <a class="text-sm leading-none text-ink/70 transition-colors hover:text-ink" href="/brand">
+          Brand
+        </a>
+        <a class="text-sm leading-none text-ink/70 transition-colors hover:text-ink" href="/faq">
+          FAQ
+        </a>
+        <a class="text-sm leading-none text-ink/70 transition-colors hover:text-ink" href="/contact">
+          Contact Us
+        </a>
+        <a class="text-sm leading-none text-ink/70 transition-colors hover:text-ink" href="/legal/terms">
+          Terms of Service
+        </a>
+        <a class="text-sm leading-none text-ink/70 transition-colors hover:text-ink" href="/legal/privacy">
+          Privacy Policy
+        </a>
+      </div>
+      <div class="flex flex-col gap-6">
+        <h3 class="font-serif text-[18px] font-medium leading-none tracking-[-0.01em] text-ink">
+          Tools
+        </h3>
+        <a class="text-sm leading-none text-ink/70 transition-colors hover:text-ink" href="https://mail.google.com">
+          Gmail
+        </a>
+        <a class="text-sm leading-none text-ink/70 transition-colors hover:text-ink" href="https://calendar.google.com">
+          Google Calendar
+        </a>
+        <a class="text-sm leading-none text-ink/70 transition-colors hover:text-ink" href="https://drive.google.com">
+          Google Drive
+        </a>
+        <a class="text-sm leading-none text-ink/70 transition-colors hover:text-ink" href="https://granola.ai">
+          Granola
+        </a>
+        <a class="text-sm leading-none text-ink/70 transition-colors hover:text-ink" href="https://sentry.io">
+          Sentry
+        </a>
+      </div>
+    </div>
+  </div>
+</footer>
