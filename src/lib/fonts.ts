@@ -11,14 +11,11 @@ export const lausanne = localFont({
     { path: "../../public/fonts/TWKLausanne_400.woff2", weight: "400", style: "normal" },
     { path: "../../public/fonts/TWKLausanne_500.woff2", weight: "500", style: "normal" },
   ],
+  // NOTE: the ascent/descent/size-adjust overrides orchid.ai ships belong to its
+  // *fallback* face, not to Lausanne itself. Passing them through `declarations`
+  // would apply them to the real font and scale every glyph (2% too wide).
   fallback: ["Arial"],
   adjustFontFallback: false,
-  declarations: [
-    { prop: "ascent-override", value: "89.26%" },
-    { prop: "descent-override", value: "19.61%" },
-    { prop: "line-gap-override", value: "0%" },
-    { prop: "size-adjust", value: "102.08%" },
-  ],
 });
 
 /**
@@ -39,14 +36,9 @@ export const louize = localFont({
     { path: "../../public/fonts/Louize_Bold.otf", weight: "700", style: "normal" },
     { path: "../../public/fonts/Louize_BoldItalic.otf", weight: "700", style: "italic" },
   ],
+  // Same caveat as Lausanne — these overrides describe the fallback face only.
   fallback: ["Arial"],
   adjustFontFallback: false,
-  declarations: [
-    { prop: "ascent-override", value: "102.67%" },
-    { prop: "descent-override", value: "30.97%" },
-    { prop: "line-gap-override", value: "2.69%" },
-    { prop: "size-adjust", value: "89.12%" },
-  ],
 });
 
 export const jetbrainsMono = JetBrains_Mono({
