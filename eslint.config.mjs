@@ -12,6 +12,10 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Research artifacts: minified source mirrored from the clone target.
+    "docs/**",
+    // Agent worktrees are separate checkouts.
+    ".claude/worktrees/**",
   ]),
 ]);
 
